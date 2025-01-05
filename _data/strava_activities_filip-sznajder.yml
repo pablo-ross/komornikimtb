@@ -1,4 +1,21 @@
 ---
+- id: 13262647310
+  start_date: 2025-01-04 12:01:01.000000000 +01:00
+  type: Run
+  name: "Lunch Run \U0001F415"
+  strava_url: https://www.strava.com/activities/13262647310
+  type_emoji: "\U0001F3C3"
+  distance: 5.38km
+  moving_time: 30m54s
+  average_speed: 
+  total_elevation_gain: 21.1m
+  maps:
+  - https://static.komornikimtb.pl/maps/57b1aca0746ea583d144ab63cb86218a_600x600.png
+  - https://static.komornikimtb.pl/maps/57b1aca0746ea583d144ab63cb86218a_1280x850.png
+  pace: 5m44s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/_TwK9c06qVtqaO2cDG8K_9BBc7J3rMN9G_nF_HzDnyQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/-Bif0X1DCoaLsfWyDR-YY6uRr4QVBfxKnLHMAps-71k-1536x2048.jpg
 - id: 13215669569
   start_date: 2024-12-29 12:41:57.000000000 +01:00
   type: Run
