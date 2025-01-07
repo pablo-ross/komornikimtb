@@ -2,7 +2,7 @@
 - id: 13270349510
   start_date: 2025-01-05 10:00:13.000000000 +01:00
   type: Run
-  name: Morning Run
+  name: Poznański Bieg Noworoczny 2025
   strava_url: https://www.strava.com/activities/13270349510
   type_emoji: "\U0001F3C3"
   distance: 5.25km
@@ -13,7 +13,8 @@
   - https://static.komornikimtb.pl/maps/6d3c0c50c5ca489fa8dcaeb889e60998_600x600.png
   - https://static.komornikimtb.pl/maps/6d3c0c50c5ca489fa8dcaeb889e60998_1280x850.png
   pace: 4m27s/km
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/pv9tWV59_19WiSD32YX1CqHI8prZ06TasEF0j82lbr4-1542x2048.jpg
 - id: 13257441655
   start_date: 2025-01-03 19:09:01.000000000 +01:00
   type: Run
