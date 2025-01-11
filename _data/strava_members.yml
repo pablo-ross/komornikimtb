@@ -80,15 +80,15 @@
     biggest_ride_distance: 109.74km
     biggest_climb_elevation_gain: 669.2m
     recent_ride_totals:
-      count: 8
-      distance: 277.45km
-      moving_time: '08h 30m'
-      elevation_gain: 1545m
+      count: 9
+      distance: 317.54km
+      moving_time: '09h 47m'
+      elevation_gain: 1848m
     ytd_ride_totals:
-      count: 3
-      distance: 108km
-      moving_time: 03h 22m
-      elevation_gain: 698m
+      count: 4
+      distance: 148km
+      moving_time: 04h 39m
+      elevation_gain: 1001m
 - name: Marcin Piątek
   id: 42055569
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/42055569/12602382/1/large.jpg
@@ -224,10 +224,10 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1809m
     recent_ride_totals:
-      count: 8
-      distance: 192.09km
-      moving_time: 10h 21m
-      elevation_gain: 3854m
+      count: 7
+      distance: 169.45km
+      moving_time: '09h 15m'
+      elevation_gain: 3237m
     ytd_ride_totals:
       count: 0
       distance: 0km
@@ -242,10 +242,10 @@
     biggest_ride_distance: 180.27km
     biggest_climb_elevation_gain: 1848.2m
     recent_ride_totals:
-      count: 7
-      distance: 232.25km
-      moving_time: '08h 13m'
-      elevation_gain: 2484m
+      count: 6
+      distance: 196.45km
+      moving_time: 06h 59m
+      elevation_gain: 2137m
     ytd_ride_totals:
       count: 2
       distance: 69km
@@ -368,12 +368,12 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 1752.2m
     recent_ride_totals:
-      count: 17
-      distance: 224.4km
-      moving_time: 20h 22m
+      count: 20
+      distance: 302.53km
+      moving_time: 24h 28m
       elevation_gain: 0m
     ytd_ride_totals:
-      count: 4
-      distance: 29km
-      moving_time: 04h 46m
+      count: 7
+      distance: 107km
+      moving_time: '08h 52m'
       elevation_gain: 0m
