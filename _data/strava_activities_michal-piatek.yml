@@ -1,4 +1,21 @@
 ---
+- id: 13324809737
+  start_date: 2025-01-11 12:58:09.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Aerobic Builds in Paris
+  strava_url: https://www.strava.com/activities/13324809737
+  type_emoji: "\U0001F6B4"
+  distance: 42.59km
+  moving_time: 1h30m41s
+  average_speed: 28.2km/h
+  total_elevation_gain: 260m
+  maps:
+  - https://static.komornikimtb.pl/maps/884cb6fdca88fc97bca4f71ffdebd0ee_600x600.png
+  - https://static.komornikimtb.pl/maps/884cb6fdca88fc97bca4f71ffdebd0ee_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/7uDIQSfFW2POHwptbzCgH4lfAcVico1vLmG8qH34YiM-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/WvuwIyRrkK8WgbNIsNVg3QnW3C7PsVnQ8vkdXMoSOU8-2048x1152.jpg
 - id: 13316944548
   start_date: 2025-01-10 15:05:28.000000000 +01:00
   type: VirtualRide

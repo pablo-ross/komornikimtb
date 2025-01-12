@@ -1,4 +1,23 @@
 ---
+- id: 13326120241
+  start_date: 2025-01-11 14:39:25.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - TOUR DE SUISSE 2024 | STAGE 3 - RÜSCHLIKON
+  strava_url: https://www.strava.com/activities/13326120241
+  type_emoji: "\U0001F6B4"
+  distance: 36.89km
+  moving_time: 2h1m
+  average_speed: 18.3km/h
+  total_elevation_gain: 920m
+  maps:
+  - https://static.komornikimtb.pl/maps/5a416406061779ba7b9b68c05a9bc5a0_600x600.png
+  - https://static.komornikimtb.pl/maps/5a416406061779ba7b9b68c05a9bc5a0_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/4YFZB2-yw0zj3BKt0NAT1AZfVgjloCUcHPVce1jNJLw-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/O0XftQTIbALJWNQQlJt5dDWX-UgJpHl198vrp5Gm4eI-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/x1o0NwI-v0YP5xbezfgXgEOHXK58dRnWdkEArE-4_0s-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/NUDoINbdyh6B1c_Ri9uMWa1AOZVrLqZbYj8MDQkIjvo-2048x1151.jpg
 - id: 13281870141
   start_date: 2025-01-06 16:08:58.000000000 +01:00
   type: VirtualRide
