@@ -1,4 +1,20 @@
 ---
+- id: 13353120801
+  start_date: 2025-01-14 15:55:01.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - 1:20/40 S4 in Watopia
+  strava_url: https://www.strava.com/activities/13353120801
+  type_emoji: "\U0001F6B4"
+  distance: 17.58km
+  moving_time: 45m19s
+  average_speed: 23.3km/h
+  total_elevation_gain: 350m
+  maps:
+  - https://static.komornikimtb.pl/maps/a9eeb0aae62b27a19466fcc4d43003ba_600x600.png
+  - https://static.komornikimtb.pl/maps/a9eeb0aae62b27a19466fcc4d43003ba_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/30dVkkjsLbKf_QtKecnWSiAEbZTtoGKBF9qe0REqsek-2048x1119.jpg
 - id: 13323343438
   start_date: 2025-01-11 10:25:58.000000000 +01:00
   type: VirtualRide
