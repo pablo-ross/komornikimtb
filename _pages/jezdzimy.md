@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2025-01-17 05:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2025-01-18 05:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -40,4 +40,4 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 27|Evening Ride|Krystian|0.0|60|
 28|Rekreacyjnie 🚴|Katarzyna Krzycka|37.2|139|74
 29|Morning Ride|Adrianna|27.44|80|
-30|Afternoon Ride|Nodi|40.04|151|257
+30|Pierwsze km w tym roku 🚴😃|Katarzyna Krzycka|30.07|84|32
