@@ -1,4 +1,20 @@
 ---
+- id: 13397450345
+  start_date: 2025-01-19 14:00:47.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Tour Down Under 2024 | Stage 4 - Ashbourne
+  strava_url: https://www.strava.com/activities/13397450345
+  type_emoji: "\U0001F6B4"
+  distance: 35.3km
+  moving_time: 1h19m40s
+  average_speed: 26.6km/h
+  total_elevation_gain: 332m
+  maps:
+  - https://static.komornikimtb.pl/maps/10816cd1fc32e2086aecf7a22fc3b973_600x600.png
+  - https://static.komornikimtb.pl/maps/10816cd1fc32e2086aecf7a22fc3b973_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/CN2epEXK0kULs3tX1GfrvL1N6sxTfNfPU5maRSRWqHg-2048x1365.jpg
 - id: 13335472529
   start_date: 2025-01-12 14:36:53.000000000 +01:00
   type: VirtualRide
