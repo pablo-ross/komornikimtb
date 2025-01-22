@@ -116,15 +116,15 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 969.2m
     recent_ride_totals:
-      count: 13
-      distance: 279.94km
-      moving_time: '08h 03m'
-      elevation_gain: 1914m
+      count: 14
+      distance: 297.18km
+      moving_time: '08h 40m'
+      elevation_gain: 2291m
     ytd_ride_totals:
-      count: 11
-      distance: 224km
-      moving_time: 06h 33m
-      elevation_gain: 1644m
+      count: 12
+      distance: 241km
+      moving_time: 07h 10m
+      elevation_gain: 2021m
 - name: Paweł Perz
   id: 18314823
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/18314823/5244308/1/large.jpg
@@ -206,14 +206,14 @@
     biggest_ride_distance: 138.15km
     biggest_climb_elevation_gain: 652.2m
     recent_ride_totals:
-      count: 2
-      distance: 28.03km
-      moving_time: 02h 23m
+      count: 3
+      distance: 47.65km
+      moving_time: 03h 22m
       elevation_gain: 209m
     ytd_ride_totals:
-      count: 2
-      distance: 28km
-      moving_time: 02h 23m
+      count: 3
+      distance: 47km
+      moving_time: 03h 22m
       elevation_gain: 209m
 - name: 'Kri So '
   id: 26717769
@@ -224,10 +224,10 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1809m
     recent_ride_totals:
-      count: 9
-      distance: 275.58km
-      moving_time: 11h 49m
-      elevation_gain: 2734m
+      count: 10
+      distance: 294.01km
+      moving_time: 12h 57m
+      elevation_gain: 3446m
     ytd_ride_totals:
       count: 0
       distance: 0km
@@ -332,9 +332,9 @@
     biggest_ride_distance: 138.2km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 9
-      distance: 267.27km
-      moving_time: 11h 24m
+      count: 8
+      distance: 236.39km
+      moving_time: 10h 17m
       elevation_gain: 1288m
     ytd_ride_totals:
       count: 0
