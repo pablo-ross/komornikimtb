@@ -1,4 +1,22 @@
 ---
+- id: 13431492703
+  start_date: 2025-01-23 14:10:49.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - HIDIT LIKE HE DID IT | Fat Burner
+  strava_url: https://www.strava.com/activities/13431492703
+  type_emoji: "\U0001F6B4"
+  distance: 15.12km
+  moving_time: 26m26s
+  average_speed: 34.3km/h
+  total_elevation_gain: 117m
+  maps:
+  - https://static.komornikimtb.pl/maps/d6f1b48093d4fba099a6bf8ba6891b9f_600x600.png
+  - https://static.komornikimtb.pl/maps/d6f1b48093d4fba099a6bf8ba6891b9f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/s7Avrjy6_pqjrqwL6vy1N4cN9kKV1BGn0wUL53CiA5U-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uq5nYmYEjF7J2HYoIRmsNw_EN2Y7_rQWf10bMPbTYmE-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/zRepjVqBj7xgAbWuDjEk5HlIqAkwzqrMEuKNDq9tmWY-2048x1152.jpg
 - id: 13415330865
   start_date: 2025-01-21 17:21:35.000000000 +01:00
   type: VirtualRide
