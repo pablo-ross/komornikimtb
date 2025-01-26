@@ -1,4 +1,22 @@
 ---
+- id: 13449862747
+  start_date: 2025-01-25 16:41:25.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Ignite & Burn | Fat Burner
+  strava_url: https://www.strava.com/activities/13449862747
+  type_emoji: "\U0001F6B4"
+  distance: 20.32km
+  moving_time: 34m34s
+  average_speed: 35.3km/h
+  total_elevation_gain: 35m
+  maps:
+  - https://static.komornikimtb.pl/maps/1f5800f4ce7f6a0ace7f35d7813edc6d_600x600.png
+  - https://static.komornikimtb.pl/maps/1f5800f4ce7f6a0ace7f35d7813edc6d_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/M9ex4R9m5ZgWwH151wA65BqcX8786zqQ37xtboZdN7k-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/p3DlyJp6-LE9WrCXm6COiGU9BLsz29P8oGHYErLN7jw-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PDlBGDKrVP4slC21vt3dY8NxPKGKY0ggArhbMcRj_oc-2048x1152.jpg
 - id: 13431492703
   start_date: 2025-01-23 14:10:49.000000000 +01:00
   type: VirtualRide
