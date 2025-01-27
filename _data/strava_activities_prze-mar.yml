@@ -1,4 +1,23 @@
 ---
+- id: 13456490239
+  start_date: 2025-01-26 12:16:15.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Strength Meets Speed | Fat Burner
+  strava_url: https://www.strava.com/activities/13456490239
+  type_emoji: "\U0001F6B4"
+  distance: 17.24km
+  moving_time: 37m11s
+  average_speed: 27.8km/h
+  total_elevation_gain: 377m
+  maps:
+  - https://static.komornikimtb.pl/maps/79d0013a49e1063d401518b07825ed2f_600x600.png
+  - https://static.komornikimtb.pl/maps/79d0013a49e1063d401518b07825ed2f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/8mHeHVmcGb8qyGkzHChKj4sQtishtBKsb_0j8VuPRmI-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/usV-JZuguFn9-MIvX5UYU4rUTLUHjsFNkqm0opPK5Ps-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/G7F8G9baG63oD8trrDHo8PTreS36YMWMa2pwOCfcz80-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/6bMijQ__CpUJLanRcta_xMGKvmYxkVm8Njmy027aZSE-2048x1152.jpg
 - id: 13449862747
   start_date: 2025-01-25 16:41:25.000000000 +01:00
   type: VirtualRide
