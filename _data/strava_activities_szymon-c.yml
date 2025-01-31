@@ -1,4 +1,20 @@
 ---
+- id: 13491769656
+  start_date: 2025-01-30 11:52:20.000000000 +01:00
+  type: Ride
+  name: Tempo s3 + sprinty
+  strava_url: https://www.strava.com/activities/13491769656
+  type_emoji: "\U0001F6B4"
+  distance: 32.24km
+  moving_time: 1h3m29s
+  average_speed: 30.5km/h
+  total_elevation_gain: 92m
+  maps:
+  - https://static.komornikimtb.pl/maps/5c8c76914978a25d3d873bc38d5665fb_600x600.png
+  - https://static.komornikimtb.pl/maps/5c8c76914978a25d3d873bc38d5665fb_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/N_aKpJiWAahE9UHQM2H_4M7g-y6eFwqebSmLH9-_xIs-2048x946.jpg
 - id: 13474590755
   start_date: 2025-01-28 14:06:11.000000000 +01:00
   type: VirtualRide
@@ -122,16 +138,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/UN79lXkt2ONcZIBynbnRxMDkbGOJQeiL-3zt2wUBbi8-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/LN-43L7-uO_ijyEBvGcHnRjiykrS4k-bmquClgBD5VA-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/qx0TBpIu1pi1m2BwzRYXazot3ZYzS_x47V9M4JlzA6w-2048x1119.jpg
-- id: 13229949479
-  start_date: 2024-12-31 11:47:00.000000000 +01:00
-  type: Swim
-  name: Lunch Swim
-  strava_url: https://www.strava.com/activities/13229949479
-  type_emoji: "\U0001F3CA"
-  distance: 1700m
-  moving_time: 33m3s
-  average_speed: 
-  total_elevation_gain: 
-  maps: 
-  pace: 1m57s/100m
-  photos: 
