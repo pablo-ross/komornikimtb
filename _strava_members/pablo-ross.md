@@ -13,9 +13,9 @@ stats:
     moving_time: 03h 37m
     elevation_gain: 101m
   ytd_ride_totals:
-    count: 1
+    count: 3
     distance: 35km
-    moving_time: 01h 14m
+    moving_time: 03h 37m
     elevation_gain: 101m
 layout: strava_member
 --- 
