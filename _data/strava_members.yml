@@ -134,15 +134,15 @@
     biggest_ride_distance: 104.44km
     biggest_climb_elevation_gain: 462.6m
     recent_ride_totals:
-      count: 0
-      distance: 0km
-      moving_time: 00h 00m
-      elevation_gain: 0m
-    ytd_ride_totals:
       count: 1
-      distance: 18km
-      moving_time: 00h 58m
-      elevation_gain: 117m
+      distance: 13.44km
+      moving_time: 01h 09m
+      elevation_gain: 38m
+    ytd_ride_totals:
+      count: 2
+      distance: 31km
+      moving_time: 02h 07m
+      elevation_gain: 155m
 - name: Aleksandra Socha
   id: 23447303
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/23447303/14745546/4/large.jpg
@@ -278,10 +278,10 @@
     biggest_ride_distance: 179.73km
     biggest_climb_elevation_gain: 971.6m
     recent_ride_totals:
-      count: 6
-      distance: 85.9km
-      moving_time: '09h 38m'
-      elevation_gain: 394m
+      count: 5
+      distance: 58.64km
+      moving_time: 07h 55m
+      elevation_gain: 238m
     ytd_ride_totals:
       count: 7
       distance: 123km
