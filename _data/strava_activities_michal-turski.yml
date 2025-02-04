@@ -1,4 +1,22 @@
 ---
+- id: 13525962777
+  start_date: 2025-02-03 09:18:05.000000000 +01:00
+  type: Run
+  name: Morning Run
+  strava_url: https://www.strava.com/activities/13525962777
+  type_emoji: "\U0001F3C3"
+  distance: 8.45km
+  moving_time: 44m55s
+  average_speed: 
+  total_elevation_gain: 39m
+  maps:
+  - https://static.komornikimtb.pl/maps/ea3df70ec06537e2ff9fe44e339b1849_600x600.png
+  - https://static.komornikimtb.pl/maps/ea3df70ec06537e2ff9fe44e339b1849_1280x850.png
+  pace: 5m19s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/7r3a7ABYV55uhZxqeRxAMIuAW9PfyOKF6XXkU8mJ7oc-1154x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/FckwhAKRPElbzfwnKrLe-TEByErV3lwMr0Sd8edrShM-1154x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7V9tjxpQSdQ7604CS19RCL3RCw9lUVMocWD7N5fqbc4-1154x2048.jpg
 - id: 13501788155
   start_date: 2025-01-31 15:26:06.000000000 +01:00
   type: Run
@@ -180,24 +198,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/AKB8kpFLcmqVbKD7RUkc2VuBjMOdmCljffeTx3qcbIw-1154x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/zSNeMYlsAxNLC0Qr1ZqzbbuvSs2Z0hxmbOcLitqbUPg-1154x2048.jpg
-- id: 13263036159
-  start_date: 2025-01-04 12:08:25.000000000 +01:00
-  type: Run
-  name: Lunch Trail Run
-  strava_url: https://www.strava.com/activities/13263036159
-  type_emoji: "\U0001F3C3"
-  distance: 10.6km
-  moving_time: 1h56s
-  average_speed: 
-  total_elevation_gain: 78m
-  maps:
-  - https://static.komornikimtb.pl/maps/71f406f2729bd861e02fa51909ede1cb_600x600.png
-  - https://static.komornikimtb.pl/maps/71f406f2729bd861e02fa51909ede1cb_1280x850.png
-  pace: 5m45s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/wgbsp5ozgC8ldLccELM8HwTRSA6937JFJ9KY9bhQCRw-1154x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/i96TsNPWvGifToIEFO8qerCHBxPJLhNHVnQg-cTtxbk-1154x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/GMDtrYAjy_8j2D-2pHHVqsmg010Uyfs_b42wT8D23q8-1154x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/9JMvna-u4-bCnxMydn2irJqKPXuKs6trIpcGiRrMu5k-1154x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/N58LNp_R8a3oFOvZzIf7dkXcA7a_6hC0wyzGs4Bl3fw-1154x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Ol4jRuZkbBahegUWNh61OdZC_LS6g9haDFqUi-zgwv0-1288x2048.jpg

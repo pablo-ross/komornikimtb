@@ -80,10 +80,10 @@
     biggest_ride_distance: 109.74km
     biggest_climb_elevation_gain: 669.2m
     recent_ride_totals:
-      count: 6
-      distance: 228.89km
-      moving_time: 07h 09m
-      elevation_gain: 1475m
+      count: 5
+      distance: 191.84km
+      moving_time: 06h 07m
+      elevation_gain: 1341m
     ytd_ride_totals:
       count: 8
       distance: 300km
@@ -116,10 +116,10 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 969.2m
     recent_ride_totals:
-      count: 19
-      distance: 325.7km
-      moving_time: 10h 24m
-      elevation_gain: 3903m
+      count: 17
+      distance: 301.92km
+      moving_time: '09h 44m'
+      elevation_gain: 3778m
     ytd_ride_totals:
       count: 20
       distance: 349km
@@ -152,15 +152,15 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 1840.8m
     recent_ride_totals:
-      count: 8
-      distance: 223.06km
-      moving_time: '09h 58m'
-      elevation_gain: 3442m
+      count: 7
+      distance: 219.59km
+      moving_time: '09h 45m'
+      elevation_gain: 3374m
     ytd_ride_totals:
-      count: 10
-      distance: 279km
-      moving_time: 12h 11m
-      elevation_gain: 3926m
+      count: 11
+      distance: 297km
+      moving_time: 12h 50m
+      elevation_gain: 4046m
 - name: Filip Sznajder
   id: 7026101
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/7026101/2123836/19/large.jpg
@@ -188,10 +188,10 @@
     biggest_ride_distance: 84.34km
     biggest_climb_elevation_gain: 1926.8m
     recent_ride_totals:
-      count: 2
-      distance: 85.57km
-      moving_time: 04h 05m
-      elevation_gain: 662.7m
+      count: 1
+      distance: 41.46km
+      moving_time: 02h 12m
+      elevation_gain: 401.7m
     ytd_ride_totals:
       count: 3
       distance: 110km
@@ -242,15 +242,15 @@
     biggest_ride_distance: 180.27km
     biggest_climb_elevation_gain: 1848.2m
     recent_ride_totals:
-      count: 7
-      distance: 229.6km
-      moving_time: 07h 55m
-      elevation_gain: 2361m
-    ytd_ride_totals:
       count: 8
-      distance: 265km
-      moving_time: '09h 14m'
-      elevation_gain: 2838m
+      distance: 259.2km
+      moving_time: '09h 08m'
+      elevation_gain: 2936m
+    ytd_ride_totals:
+      count: 9
+      distance: 294km
+      moving_time: 10h 28m
+      elevation_gain: 3413m
 - name: Grzegorz Ber
   id: 24993593
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24993593/7453165/11/large.jpg
@@ -369,11 +369,11 @@
     biggest_climb_elevation_gain: 1752.2m
     recent_ride_totals:
       count: 12
-      distance: 197.9km
-      moving_time: 14h 20m
+      distance: 176.17km
+      moving_time: 12h 50m
       elevation_gain: 0m
     ytd_ride_totals:
-      count: 14
-      distance: 227km
-      moving_time: 16h 30m
+      count: 16
+      distance: 250km
+      moving_time: 18h 20m
       elevation_gain: 0m
