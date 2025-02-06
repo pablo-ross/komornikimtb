@@ -1,4 +1,23 @@
 ---
+- id: 13545784151
+  start_date: 2025-02-05 12:28:14.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Sweetest Spot | Keep it fun with ROUVY
+  strava_url: https://www.strava.com/activities/13545784151
+  type_emoji: "\U0001F6B4"
+  distance: 28.84km
+  moving_time: 43m59s
+  average_speed: 39.3km/h
+  total_elevation_gain: 290m
+  maps:
+  - https://static.komornikimtb.pl/maps/20174224f9ff45d491ff2e6579caec1f_600x600.png
+  - https://static.komornikimtb.pl/maps/20174224f9ff45d491ff2e6579caec1f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/EGopul8_2HbmbzdjX1KH-nRbvQ3gy6-DJ1eSnEVFfdg-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/xG74C1BTQQ_406RhptFVFVEJSkm0HVoFoRD-trdQodU-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/rk0Kusm5t-3eRsDIRh673fmzc7Nitm0b1H7ToH3Cf14-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/GehNCzVWCwuw6ck6N4ZEl_UlUHJzvGzQCAYpyoC9kJ8-2048x1152.jpg
 - id: 13502423179
   start_date: 2025-01-31 17:08:49.000000000 +01:00
   type: VirtualRide
