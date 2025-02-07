@@ -1,4 +1,22 @@
 ---
+- id: 13554674610
+  start_date: 2025-02-06 11:43:21.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Tempo S3 + sprinty in Watopia
+  strava_url: https://www.strava.com/activities/13554674610
+  type_emoji: "\U0001F6B4"
+  distance: 32.05km
+  moving_time: 1h1m44s
+  average_speed: 31.2km/h
+  total_elevation_gain: 156m
+  maps:
+  - https://static.komornikimtb.pl/maps/25af5914bd60dcce86cc87ed6097c883_600x600.png
+  - https://static.komornikimtb.pl/maps/25af5914bd60dcce86cc87ed6097c883_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/h-heL7JiK3N3CA3wEAcAVu7kEtjZK74gijGoIGq0OM4-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/GCNWyIUv7gLpdoY9v_gq7qbDJ5Q1ebcHg9uOKMH6toM-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hlnzz7FLBfCRgJsBXS5TB6kq-h2IshwoSA3XNyblRn0-2048x1119.jpg
 - id: 13545000877
   start_date: 2025-02-05 11:07:58.000000000 +01:00
   type: Swim
