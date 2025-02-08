@@ -1,4 +1,23 @@
 ---
+- id: 13565238672
+  start_date: 2025-02-07 16:42:08.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Stress Release | Keep it fun with ROUVY
+  strava_url: https://www.strava.com/activities/13565238672
+  type_emoji: "\U0001F6B4"
+  distance: 16.52km
+  moving_time: 37m14s
+  average_speed: 26.6km/h
+  total_elevation_gain: 381m
+  maps:
+  - https://static.komornikimtb.pl/maps/03bedafba2a3b438020549184b541f01_600x600.png
+  - https://static.komornikimtb.pl/maps/03bedafba2a3b438020549184b541f01_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/vYrprfNNJKPZ674TLhOGoOrZnwJb_xAT1WQ5EgwQQLU-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/GMJkbVQZytaDySdxmzpHMbmymmaru8g3jqO6dBYjOE4-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/8uuXT0wvaOMr8DAQibLs8kWP6Y7GM84io5p3l0C31FM-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/10OMG7UaA-__770OgTBMQ-6XvRx4i6vsTA3odhHP9Y4-2048x1152.jpg
 - id: 13545784151
   start_date: 2025-02-05 12:28:14.000000000 +01:00
   type: VirtualRide
@@ -230,22 +249,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/D7T3DplNe0NuWVU9Gm_Omktx1xSn7ZzSSn6-p9E58Qo-2048x1365.jpg
   - https://dgtzuqphqg23d.cloudfront.net/8P7eKHpceIXWGSjqtWcjwgKl09tNNVAO7Mu25Zh22HM-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/ArXluQIOpy6HYsLGrHmDeUPn_GIGAUZoLsk740iIF5E-2048x1152.jpg
-- id: 13299991851
-  start_date: 2025-01-08 16:20:10.000000000 +01:00
-  type: VirtualRide
-  name: ROUVY - Quick Motion | Fat Burner
-  strava_url: https://www.strava.com/activities/13299991851
-  type_emoji: "\U0001F6B4"
-  distance: 21.59km
-  moving_time: 34m44s
-  average_speed: 37.3km/h
-  total_elevation_gain: 33m
-  maps:
-  - https://static.komornikimtb.pl/maps/23e597d34b609bd293f49d60a60cda03_600x600.png
-  - https://static.komornikimtb.pl/maps/23e597d34b609bd293f49d60a60cda03_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/97_rth4fl3RdGxFuQu-5ahRjWeks2b4qY5MliCOPF3w-2048x1365.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/mO34uDIsKJxU3eOAnGEdirrffcpNJs11IRmYiGIzOho-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Ug2ib6PCEUbgfYNszRRTEqERiFqqqpid10iLgRQ5GKQ-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ogcyqfYpEHG15AhrPjh9NtxkXMBrjbUh5-26hJ8XonU-2048x1152.jpg
