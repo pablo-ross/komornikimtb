@@ -1,4 +1,23 @@
 ---
+- id: 13575849407
+  start_date: 2025-02-08 19:28:47.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Along the Colorado River | Colorado | USA
+  strava_url: https://www.strava.com/activities/13575849407
+  type_emoji: "\U0001F6B4"
+  distance: 30.18km
+  moving_time: 1h10m19s
+  average_speed: 25.8km/h
+  total_elevation_gain: 337m
+  maps:
+  - https://static.komornikimtb.pl/maps/873ab447978a3d2f48eb5504832044ec_600x600.png
+  - https://static.komornikimtb.pl/maps/873ab447978a3d2f48eb5504832044ec_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/vi7ezBMQ-mc3g_XBh99TGw_peXAwn39oKR48u0NncaA-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/sliHNW5xo4iUj2NP-fv9ttcKtk1RgB3IJTqUsgaViOc-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Dx2yQk4xOvdLNgAgVfTpVsf4o_YE7nwKkJ5B0VnYe_M-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Q5E0BnKAYHJtukGQxCQNq_xj9C4_8092PnevOz_j2HI-2048x1151.jpg
 - id: 13526211777
   start_date: 2025-02-03 10:17:29.000000000 +01:00
   type: VirtualRide

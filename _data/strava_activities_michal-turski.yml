@@ -1,4 +1,19 @@
 ---
+- id: 13570971080
+  start_date: 2025-02-08 11:00:28.000000000 +01:00
+  type: Run
+  name: City Trail 2.4
+  strava_url: https://www.strava.com/activities/13570971080
+  type_emoji: "\U0001F3C3"
+  distance: 5.01km
+  moving_time: 21m10s
+  average_speed: 
+  total_elevation_gain: 20m
+  maps:
+  - https://static.komornikimtb.pl/maps/4201d737cbbe5ab768eef0ea2905cb0c_600x600.png
+  - https://static.komornikimtb.pl/maps/4201d737cbbe5ab768eef0ea2905cb0c_1280x850.png
+  pace: 4m13s/km
+  photos: 
 - id: 13544734485
   start_date: 2025-02-05 09:58:25.000000000 +01:00
   type: Run
