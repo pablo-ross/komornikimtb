@@ -1,4 +1,23 @@
 ---
+- id: 13599113228
+  start_date: 2025-02-11 13:50:59.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Float like a Butterfly | Keep it fun with ROUVY
+  strava_url: https://www.strava.com/activities/13599113228
+  type_emoji: "\U0001F6B4"
+  distance: 20.52km
+  moving_time: 32m29s
+  average_speed: 37.9km/h
+  total_elevation_gain: 124m
+  maps:
+  - https://static.komornikimtb.pl/maps/f7499764d6e215baec51186d6602a84f_600x600.png
+  - https://static.komornikimtb.pl/maps/f7499764d6e215baec51186d6602a84f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/C_sG_3A7bhOl0GmQaGZDV-DFMarJVI64EZeGk_Lnea4-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/tlxe41o1ZlINkrwqJuItAAF8YeIuMSIeYGg8bTzqsXA-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ls5yu4NeWYXYDwwNfhmoQnrPJkLaqIwKTNED8MSPUYY-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/vNgorZ4p551NV5sYv1pwZMcbV_p2zea9dpPcz8DC-vU-2048x1152.jpg
 - id: 13565238672
   start_date: 2025-02-07 16:42:08.000000000 +01:00
   type: VirtualRide
@@ -212,22 +231,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/_vUv9taqFJu5MYM0VbbGieT4zqA81CKOCpxkJf-omyU-2048x1365.jpg
   - https://dgtzuqphqg23d.cloudfront.net/jpJMAi2BASKNpDHA2hF_ufp0iNQfDPyEsZZaahMIvrA-2048x1152.jpg
-- id: 13333406723
-  start_date: 2025-01-12 12:37:27.000000000 +01:00
-  type: VirtualRide
-  name: ROUVY - Flip The Switch | Fat Burner
-  strava_url: https://www.strava.com/activities/13333406723
-  type_emoji: "\U0001F6B4"
-  distance: 19.18km
-  moving_time: 32m19s
-  average_speed: 35.6km/h
-  total_elevation_gain: 223m
-  maps:
-  - https://static.komornikimtb.pl/maps/95704b9c85401638357fb6eba4b41f0b_600x600.png
-  - https://static.komornikimtb.pl/maps/95704b9c85401638357fb6eba4b41f0b_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/V6PU_zBRmDVkpTfA1-WzOom9mx3qKXRI1SyqNZMjZDg-2048x1365.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/5Xb_QC1Za3ht6MPKzaebqqfrkyHzBq1Stb0w1RvYP88-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/iv8fYpVxenXB7k3e2-OAhWC9-QBrkT7we6IpaFhKdVA-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/L5kp4_kUtvOlKtMhdG5lNHKJ65IlF-pHs1vunLCYv2U-2048x1152.jpg

@@ -131,18 +131,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/CN2epEXK0kULs3tX1GfrvL1N6sxTfNfPU5maRSRWqHg-2048x1365.jpg
-- id: 13335472529
-  start_date: 2025-01-12 14:36:53.000000000 +01:00
-  type: VirtualRide
-  name: ROUVY - La Vuelta 2023 | Stage 14 - Larra-Belagua
-  strava_url: https://www.strava.com/activities/13335472529
-  type_emoji: "\U0001F6B4"
-  distance: 21.4km
-  moving_time: 1h37m57s
-  average_speed: 13.1km/h
-  total_elevation_gain: 779m
-  maps:
-  - https://static.komornikimtb.pl/maps/6da91dcc4563446f724965f00b7bcd5b_600x600.png
-  - https://static.komornikimtb.pl/maps/6da91dcc4563446f724965f00b7bcd5b_1280x850.png
-  pace: 
-  photos: 
