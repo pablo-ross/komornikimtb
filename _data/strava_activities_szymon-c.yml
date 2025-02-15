@@ -1,4 +1,23 @@
 ---
+- id: 13624584469
+  start_date: 2025-02-14 12:17:25.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - trening progu mleczanowego in Watopia
+  strava_url: https://www.strava.com/activities/13624584469
+  type_emoji: "\U0001F6B4"
+  distance: 46.63km
+  moving_time: 1h26m7s
+  average_speed: 32.5km/h
+  total_elevation_gain: 190m
+  maps:
+  - https://static.komornikimtb.pl/maps/8617b94ccba809fd10ec5ba0610a0242_600x600.png
+  - https://static.komornikimtb.pl/maps/8617b94ccba809fd10ec5ba0610a0242_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/_NaFKcgbo6zZn3S-R0qjYkvgUCZ9Xg06iCtBF-Pp1mI-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dlNr45fB92BZwyf9oFMV8uNzQYvBf1EYRJZ2rJVj0oY-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/nbX1GqH7cW0s5mc_2G0OcuNElYPjgrUtJdhT_2q8ur0-2048x1119.jpg
+  - https://image.mux.com/fXm4Lc6UXiWqZMuwWMmhHUeSM02x00nnot3icAY16DvN4/thumbnail.jpg?width=1200&height=660&fit_mode=preserve&time=0
 - id: 13605884500
   start_date: 2025-02-12 07:40:22.000000000 +01:00
   type: VirtualRide
@@ -134,21 +153,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/-pv2RXNPr8-Twd2NphgYv6-JYh0ubZYAe7umVFbg1EY-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/0UP0XHUiB1mnmFbaoVYYORJFYqbCCUorwhP44iF1C84-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/oM3JLE7NrMCoqsPUkqNAgmMtVrgeoeZYc14IJglEqIg-2048x1119.jpg
-- id: 13362361770
-  start_date: 2025-01-15 15:43:29.000000000 +01:00
-  type: VirtualRide
-  name: Zwift - 3x15min sweet spot in Watopia
-  strava_url: https://www.strava.com/activities/13362361770
-  type_emoji: "\U0001F6B4"
-  distance: 37.37km
-  moving_time: 1h10m6s
-  average_speed: 32.0km/h
-  total_elevation_gain: 299m
-  maps:
-  - https://static.komornikimtb.pl/maps/2069fd303ccfaf55536970c06dd69a95_600x600.png
-  - https://static.komornikimtb.pl/maps/2069fd303ccfaf55536970c06dd69a95_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/PX1e9IZGOn3IwCe9cRY72pNqX9faAdv0IXX5YqyCmag-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/VsTJzcDj3r6xhqCvg61uo0SPhhLY1YBimdJnwwwzOXc-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/3gnxwqSQ6kUafSfrwoiUp2WlgfVDOIZq2YUR1zm6TXU-2048x1119.jpg
