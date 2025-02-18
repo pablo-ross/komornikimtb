@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2025-02-17 05:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2025-02-18 05:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -20,8 +20,8 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 7|Evening Ride|Krystian|0.0|127|
 8|Evening Ride|Roland|29.38|56|
 9|Afternoon Gravel Ride|Kri|16.29|42|66
-10|Indoor Cycling|Artur|45.74|100|
-11|Lunch Ride|Artur|0.0|95|
+10|Lunch Ride|Artur|0.0|95|
+11|Indoor Cycling|Artur|45.74|100|
 12|Morning Ride|Adrianna|28.96|87|
 13|Evening Run|Grzegorz|0.0|59|
 14|Evening Ride|Artur|0.0|60|

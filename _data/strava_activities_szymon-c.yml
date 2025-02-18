@@ -1,4 +1,23 @@
 ---
+- id: 13648924052
+  start_date: 2025-02-17 07:48:01.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - 3x18min sweet spot in Watopia
+  strava_url: https://www.strava.com/activities/13648924052
+  type_emoji: "\U0001F6B4"
+  distance: 40.37km
+  moving_time: 1h26m58s
+  average_speed: 27.8km/h
+  total_elevation_gain: 479m
+  maps:
+  - https://static.komornikimtb.pl/maps/eb689b91c1990aae87fd8f0249fff660_600x600.png
+  - https://static.komornikimtb.pl/maps/eb689b91c1990aae87fd8f0249fff660_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/dAXILwN-VMnT_IeBHQ3WE5iiXHBaqyzidNYk53yLgFg-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/I1bwD3VADgqonsCdwWFCEmYNkspulDsBsekGIN9XJLw-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ZM4NUWnxojuGBsKpa_b4sYKoSs8ifCZs9VXcoU0UoTU-2048x1119.jpg
+  - https://image.mux.com/nZAMEdNWoYg5vWIfiJm01CvsTuWBx7kYsR6onTMhzTv8/thumbnail.jpg?width=1200&height=660&fit_mode=preserve&time=0
 - id: 13624584469
   start_date: 2025-02-14 12:17:25.000000000 +01:00
   type: VirtualRide
