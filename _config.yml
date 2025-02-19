@@ -63,24 +63,24 @@ partners:
     logo: 'assets/partners/gosir-komorniki.png'
     description: "GOSiR Komorniki - zanim struktury klubu zostały sformalizowane na papierze, od początku istnienia nieformalnej grupy rowerowej jest z nami GOSiR Komorniki."
     web: 'https://gosirkomorniki.pl/'
-  grupacichyzasada:
-    name: grupacichyzasada
-    display_name: Grupa Cichy-Zasada
-    logo: 'assets/partners/grupa-cichy-zasada.png'
-    description: "Grupa Cichy-Zasada i marka Volkswagen Samochody Użytkowe udostępni zawodnikom klubu w użytkowanie pierwszy samochód - Volkswagen Caravelle."
-    web: 'https://cichy-zasada.pl/'
+  # grupacichyzasada:
+  #   name: grupacichyzasada
+  #   display_name: Grupa Cichy-Zasada
+  #   logo: 'assets/partners/grupa-cichy-zasada.png'
+  #   description: "Grupa Cichy-Zasada i marka Volkswagen Samochody Użytkowe udostępni zawodnikom klubu w użytkowanie pierwszy samochód - Volkswagen Caravelle."
+  #   web: 'https://cichy-zasada.pl/'
   penco:
     name: penco
     display_name: Penco
     logo: 'assets/partners/penco.png'
     description: "Penco - paliwo dla sportu. Siedziba firmy znajduje się w Pradze w Czechach. Penco kładzie nacisk na bezpieczeństwo i wysoką jakość stosowanych składników."
     web: 'https://pencopolska.pl/'
-  strefarowery:
-    name: strefarowery
-    display_name: Strefarowery.pl
-    logo: 'assets/partners/strefa-rowery.png'
-    description: "Strefarowery.pl to profesjonalny salon rowerowy z serwisem, szeroka gama akcesoriów rowerowych, autoryzowany serwis FOX, specjalistyczny i kompetentny serwis rowerowy."
-    web: 'https://www.strefarowery.pl/'
+  # strefarowery:
+  #   name: strefarowery
+  #   display_name: Strefarowery.pl
+  #   logo: 'assets/partners/strefa-rowery.png'
+  #   description: "Strefarowery.pl to profesjonalny salon rowerowy z serwisem, szeroka gama akcesoriów rowerowych, autoryzowany serwis FOX, specjalistyczny i kompetentny serwis rowerowy."
+  #   web: 'https://www.strefarowery.pl/'
 
 # Authors
 authors:
