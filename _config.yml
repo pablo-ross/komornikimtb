@@ -75,12 +75,12 @@ partners:
     logo: 'assets/partners/penco.png'
     description: "Penco - paliwo dla sportu. Siedziba firmy znajduje się w Pradze w Czechach. Penco kładzie nacisk na bezpieczeństwo i wysoką jakość stosowanych składników."
     web: 'https://pencopolska.pl/'
-  # strefarowery:
-  #   name: strefarowery
-  #   display_name: Strefarowery.pl
-  #   logo: 'assets/partners/strefa-rowery.png'
-  #   description: "Strefarowery.pl to profesjonalny salon rowerowy z serwisem, szeroka gama akcesoriów rowerowych, autoryzowany serwis FOX, specjalistyczny i kompetentny serwis rowerowy."
-  #   web: 'https://www.strefarowery.pl/'
+  # bikepoznan:
+  #   name: bikepoznan
+  #   display_name: Bike Poznań
+  #   logo: 'assets/partners/bike.png'
+  #   description: "Bike Poznań to wieloletnie doświadczenie w branży z zakresu sprzedaży jak i serwisu rowerów. Otwarci na wyzwania. Fachowe doradztwo i pomoc."
+  #   web: 'https://www.facebook.com/p/Bike-Pozna%C5%84-100083004174600/'
 
 # Authors
 authors:
