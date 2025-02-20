@@ -1,4 +1,17 @@
 ---
+- id: 13673528743
+  start_date: 2025-02-19 17:24:02.000000000 +01:00
+  type: Swim
+  name: Afternoon Swim
+  strava_url: https://www.strava.com/activities/13673528743
+  type_emoji: "\U0001F3CA"
+  distance: 525m
+  moving_time: 14m11s
+  average_speed: 
+  total_elevation_gain: 
+  maps: 
+  pace: 2m42s/100m
+  photos: 
 - id: 13602095321
   start_date: 2025-02-11 17:06:20.000000000 +01:00
   type: Swim

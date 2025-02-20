@@ -1,4 +1,17 @@
 ---
+- id: 13667654025
+  start_date: 2025-02-19 10:27:09.000000000 +01:00
+  type: Swim
+  name: Morning Swim
+  strava_url: https://www.strava.com/activities/13667654025
+  type_emoji: "\U0001F3CA"
+  distance: 1250m
+  moving_time: 24m22s
+  average_speed: 
+  total_elevation_gain: 
+  maps: 
+  pace: 1m57s/100m
+  photos: 
 - id: 13648924052
   start_date: 2025-02-17 07:48:01.000000000 +01:00
   type: VirtualRide
