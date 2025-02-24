@@ -1,4 +1,23 @@
 ---
+- id: 13708015761
+  start_date: 2025-02-23 17:23:33.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Vendeuvre-sur-Barse to Baroville | France
+  strava_url: https://www.strava.com/activities/13708015761
+  type_emoji: "\U0001F6B4"
+  distance: 41.15km
+  moving_time: 1h57m10s
+  average_speed: 21.1km/h
+  total_elevation_gain: 704m
+  maps:
+  - https://static.komornikimtb.pl/maps/c4a87db43e537c62583862989856c539_600x600.png
+  - https://static.komornikimtb.pl/maps/c4a87db43e537c62583862989856c539_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/S3a0plzOt5XHPzuVb9xoxQHxVrkj3zVuuFRcdaTZubk-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_Nr7sxLCkyAJvSBNkNR9bvbGjH2hQKgLhbYUPKvLOBI-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/m0vtWlb7W5_-CRCgaX8HuBTVH0CvhLQ2jtvQV_zql7k-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/j1HMEFHu-94piLW2mvsRQxMm7zmFvC5A80oT72RikGc-2048x1151.jpg
 - id: 13641421613
   start_date: 2025-02-16 10:16:21.000000000 +01:00
   type: VirtualRide

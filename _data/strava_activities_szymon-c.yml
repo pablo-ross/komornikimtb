@@ -1,4 +1,20 @@
 ---
+- id: 13704963651
+  start_date: 2025-02-23 13:01:34.000000000 +01:00
+  type: Ride
+  name: Test Ride
+  strava_url: https://www.strava.com/activities/13704963651
+  type_emoji: "\U0001F6B4"
+  distance: 32.25km
+  moving_time: 1h1m56s
+  average_speed: 31.2km/h
+  total_elevation_gain: 98m
+  maps:
+  - https://static.komornikimtb.pl/maps/48518126cea399d35fcd241f9b71b007_600x600.png
+  - https://static.komornikimtb.pl/maps/48518126cea399d35fcd241f9b71b007_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Y2mXJC1p7E8PfhxoynxvV9CSuLXBkWdNLQtRak5nLpg-2048x1246.jpg
 - id: 13686182643
   start_date: 2025-02-21 12:51:29.000000000 +01:00
   type: Swim
@@ -199,21 +215,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/r5FEK4hcmFoiP_Ylzryba6iutGidgryacJXZKNIRw54-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/5HV6RVSafr7jy8m5p-BA5vKG-oBHWYrtHFKXy7Pii4g-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/T7YZbMpiagF8z5P1nwgmSTYnuZtajaQXHY-EY-LzqQU-2048x1119.jpg
-- id: 13441756338
-  start_date: 2025-01-24 18:33:07.000000000 +01:00
-  type: VirtualRide
-  name: Zwift - 4x (4min 85% FTP +1min 115% FTP). in Watopia
-  strava_url: https://www.strava.com/activities/13441756338
-  type_emoji: "\U0001F6B4"
-  distance: 31.71km
-  moving_time: 56m33s
-  average_speed: 33.6km/h
-  total_elevation_gain: 167m
-  maps:
-  - https://static.komornikimtb.pl/maps/0a8cb96988185401728548b1409c222a_600x600.png
-  - https://static.komornikimtb.pl/maps/0a8cb96988185401728548b1409c222a_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/-pv2RXNPr8-Twd2NphgYv6-JYh0ubZYAe7umVFbg1EY-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/0UP0XHUiB1mnmFbaoVYYORJFYqbCCUorwhP44iF1C84-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/oM3JLE7NrMCoqsPUkqNAgmMtVrgeoeZYc14IJglEqIg-2048x1119.jpg
