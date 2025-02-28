@@ -1,1 +1,16 @@
---- []
+---
+- id: 13743550064
+  start_date: 2025-02-27 17:50:50.000000000 +01:00
+  type: Ride
+  name: Pół roku przerwy wystarczy
+  strava_url: https://www.strava.com/activities/13743550064
+  type_emoji: "\U0001F6B4"
+  distance: 24.25km
+  moving_time: 1h12m21s
+  average_speed: 20.1km/h
+  total_elevation_gain: 106m
+  maps:
+  - https://static.komornikimtb.pl/maps/edce5983324a3de33fd282b281bb1e39_600x600.png
+  - https://static.komornikimtb.pl/maps/edce5983324a3de33fd282b281bb1e39_1280x850.png
+  pace: 
+  photos: 
