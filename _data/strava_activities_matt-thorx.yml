@@ -1,4 +1,19 @@
 ---
+- id: 13752071327
+  start_date: 2025-02-28 17:30:48.000000000 +01:00
+  type: Ride
+  name: Afternoon Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/13752071327
+  type_emoji: "\U0001F6B4"
+  distance: 20.08km
+  moving_time: 1h4m1s
+  average_speed: 18.8km/h
+  total_elevation_gain: 85m
+  maps:
+  - https://static.komornikimtb.pl/maps/b38bf3a0d6664181b9f5ebd86b5b78b6_600x600.png
+  - https://static.komornikimtb.pl/maps/b38bf3a0d6664181b9f5ebd86b5b78b6_1280x850.png
+  pace: 
+  photos: 
 - id: 13743550064
   start_date: 2025-02-27 17:50:50.000000000 +01:00
   type: Ride
