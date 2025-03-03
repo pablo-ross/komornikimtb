@@ -1,4 +1,21 @@
 ---
+- id: 13767431334
+  start_date: 2025-03-02 12:07:08.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Novanta Lite on Tempus Fugit in Watopia
+  strava_url: https://www.strava.com/activities/13767431334
+  type_emoji: "\U0001F6B4"
+  distance: 22.11km
+  moving_time: 40m46s
+  average_speed: 32.5km/h
+  total_elevation_gain: 33m
+  maps:
+  - https://static.komornikimtb.pl/maps/43f73630c05ca2606672dd1ab4bb167e_600x600.png
+  - https://static.komornikimtb.pl/maps/43f73630c05ca2606672dd1ab4bb167e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/O8KCBzt3kVc6j1i6CNUQ4zmfvuibkayJ3_RvolVvMbY-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/y713MxhOCwG9H_6hYnFUtO45vFBaCFktwwKmBveJvrY-2048x1152.jpg
 - id: 13750976678
   start_date: 2025-02-28 15:44:38.000000000 +01:00
   type: VirtualRide
