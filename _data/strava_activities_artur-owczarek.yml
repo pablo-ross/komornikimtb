@@ -38,19 +38,3 @@
   maps: 
   pace: 2m36s/100m
   photos: 
-- id: 13510093489
-  start_date: 2025-02-01 11:00:11.000000000 +01:00
-  type: Run
-  name: Dziewicza Góra biega
-  strava_url: https://www.strava.com/activities/13510093489
-  type_emoji: "\U0001F3C3"
-  distance: 10.33km
-  moving_time: 59m44s
-  average_speed: 
-  total_elevation_gain: 179m
-  maps:
-  - https://static.komornikimtb.pl/maps/61936cb7cbcbef31b72cfd77acc36c10_600x600.png
-  - https://static.komornikimtb.pl/maps/61936cb7cbcbef31b72cfd77acc36c10_1280x850.png
-  pace: 5m47s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/ZrsQOoETuA4cNpYFfBG9f1YSkzwmf0mObxSuaZflG_4-1536x2048.jpg
