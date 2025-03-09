@@ -1,4 +1,19 @@
 ---
+- id: 13823698583
+  start_date: 2025-03-08 12:32:24.000000000 +01:00
+  type: Ride
+  name: Lunch Ride
+  strava_url: https://www.strava.com/activities/13823698583
+  type_emoji: "\U0001F6B4"
+  distance: 51.03km
+  moving_time: 2h26m18s
+  average_speed: 20.9km/h
+  total_elevation_gain: 202m
+  maps:
+  - https://static.komornikimtb.pl/maps/76a38b96716b97123721769821556e88_600x600.png
+  - https://static.komornikimtb.pl/maps/76a38b96716b97123721769821556e88_1280x850.png
+  pace: 
+  photos: 
 - id: 13814969842
   start_date: 2025-03-07 15:56:22.000000000 +01:00
   type: VirtualRide

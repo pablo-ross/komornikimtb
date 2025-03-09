@@ -1,4 +1,20 @@
 ---
+- id: 13825065492
+  start_date: 2025-03-08 15:39:34.000000000 +01:00
+  type: Ride
+  name: Test Ride
+  strava_url: https://www.strava.com/activities/13825065492
+  type_emoji: "\U0001F6B4"
+  distance: 38.58km
+  moving_time: 1h10m30s
+  average_speed: 32.8km/h
+  total_elevation_gain: 135m
+  maps:
+  - https://static.komornikimtb.pl/maps/24815edd9b79d770cff78dc69998e11e_600x600.png
+  - https://static.komornikimtb.pl/maps/24815edd9b79d770cff78dc69998e11e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ZD8a3_hpm2lrkUh0x9t_xUkocLcd2ifdAHLnWlSeBW4-2048x1536.jpg
 - id: 13797736346
   start_date: 2025-03-05 15:09:04.000000000 +01:00
   type: Ride
