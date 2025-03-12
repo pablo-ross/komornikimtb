@@ -104,18 +104,3 @@
   - https://static.komornikimtb.pl/maps/353455a2eb0476ccba7d29970365d9be_1280x850.png
   pace: 5m21s/km
   photos: 
-- id: 13578967849
-  start_date: 2025-02-09 08:23:43.000000000 +01:00
-  type: Run
-  name: Morning Run
-  strava_url: https://www.strava.com/activities/13578967849
-  type_emoji: "\U0001F3C3"
-  distance: 15.64km
-  moving_time: 1h21m35s
-  average_speed: 
-  total_elevation_gain: 109m
-  maps:
-  - https://static.komornikimtb.pl/maps/6e2f9a1eaae7f02f56ee6e52f2842687_600x600.png
-  - https://static.komornikimtb.pl/maps/6e2f9a1eaae7f02f56ee6e52f2842687_1280x850.png
-  pace: 5m13s/km
-  photos: 
