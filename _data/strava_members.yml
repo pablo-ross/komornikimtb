@@ -80,15 +80,15 @@
     biggest_ride_distance: 109.74km
     biggest_climb_elevation_gain: 669.2m
     recent_ride_totals:
-      count: 6
-      distance: 144.61km
-      moving_time: 05h 27m
-      elevation_gain: 533m
+      count: 7
+      distance: 158.66km
+      moving_time: 05h 55m
+      elevation_gain: 605m
     ytd_ride_totals:
-      count: 16
-      distance: 476km
-      moving_time: 16h 06m
-      elevation_gain: 2933m
+      count: 17
+      distance: 490km
+      moving_time: 16h 34m
+      elevation_gain: 3005m
 - name: Marcin Piątek
   id: 42055569
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/42055569/12602382/1/large.jpg
@@ -332,15 +332,15 @@
     biggest_ride_distance: 138.2km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 12
-      distance: 399.85km
-      moving_time: 15h 33m
-      elevation_gain: 2721m
+      count: 13
+      distance: 433.66km
+      moving_time: 16h 43m
+      elevation_gain: 2940m
     ytd_ride_totals:
-      count: 25
-      distance: 822km
-      moving_time: 33h 55m
-      elevation_gain: 6072m
+      count: 26
+      distance: 856km
+      moving_time: 35h 05m
+      elevation_gain: 6291m
 - name: Michał Turski
   id: 49583540
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/49583540/14729338/2/large.jpg
