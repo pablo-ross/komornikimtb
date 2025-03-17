@@ -1,17 +1,32 @@
 ---
-- id: 13888693519
-  start_date: 2025-03-15 13:58:46.000000000 +01:00
+- id: 13897764315
+  start_date: 2025-03-16 09:05:35.000000000 +01:00
   type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/13888693519
+  name: Morning Gravel Ride
+  strava_url: https://www.strava.com/activities/13897764315
   type_emoji: "\U0001F6B4"
-  distance: 24.65km
-  moving_time: 1h2m15s
-  average_speed: 23.8km/h
-  total_elevation_gain: 65m
+  distance: 71.65km
+  moving_time: 3h25m44s
+  average_speed: 20.9km/h
+  total_elevation_gain: 313m
   maps:
-  - https://static.komornikimtb.pl/maps/73f82fb4ec56f9baf3b34041227237c3_600x600.png
-  - https://static.komornikimtb.pl/maps/73f82fb4ec56f9baf3b34041227237c3_1280x850.png
+  - https://static.komornikimtb.pl/maps/223856ba311dc9ea94cace4193a2aedd_600x600.png
+  - https://static.komornikimtb.pl/maps/223856ba311dc9ea94cace4193a2aedd_1280x850.png
+  pace: 
+  photos: 
+- id: 13894776626
+  start_date: 2025-03-15 10:40:29.000000000 +01:00
+  type: Ride
+  name: Ustawka Szutroza x Supersportowy
+  strava_url: https://www.strava.com/activities/13894776626
+  type_emoji: "\U0001F6B4"
+  distance: 57.67km
+  moving_time: 2h24m8s
+  average_speed: 24.0km/h
+  total_elevation_gain: 423m
+  maps:
+  - https://static.komornikimtb.pl/maps/569179d48e839ff85b7b60a343d0425e_600x600.png
+  - https://static.komornikimtb.pl/maps/569179d48e839ff85b7b60a343d0425e_1280x850.png
   pace: 
   photos: 
 - id: 13879064603
