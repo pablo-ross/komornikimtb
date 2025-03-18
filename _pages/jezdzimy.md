@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2025-03-17 05:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2025-03-18 05:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -20,7 +20,7 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 7|Prom Ride|Szymon|36.44|87|90
 8|Lunch Ride|Prze|32.85|91|225
 9|Lunch Ride|Tomasz|8.03|56|148
-10|Lunch Gravel Ride|Łukasz|16.53|59|183
+10|Gostynska gonitwa MTB|Łukasz|16.53|59|183
 11|Lunch Ride|Rafal|36.35|113|226
 12|Gostyńska gonitwa 2025r|Adrian|17.12|55|176
 13|Lunch Mountain Bike Ride|Krystian|72.64|207|386
