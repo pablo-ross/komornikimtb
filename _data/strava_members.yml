@@ -224,10 +224,10 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1809m
     recent_ride_totals:
-      count: 19
-      distance: 513.69km
-      moving_time: 21h 18m
-      elevation_gain: 5028m
+      count: 18
+      distance: 507.69km
+      moving_time: 20h 53m
+      elevation_gain: 4703m
     ytd_ride_totals:
       count: 45
       distance: 1207km
@@ -314,15 +314,15 @@
     biggest_ride_distance: 177.13km
     biggest_climb_elevation_gain: 1987.2m
     recent_ride_totals:
-      count: 0
-      distance: 0km
-      moving_time: 00h 00m
-      elevation_gain: 0m
+      count: 1
+      distance: 30.64km
+      moving_time: 01h 41m
+      elevation_gain: 210m
     ytd_ride_totals:
-      count: 0
-      distance: 0km
-      moving_time: 00h 00m
-      elevation_gain: 0m
+      count: 1
+      distance: 30km
+      moving_time: 01h 41m
+      elevation_gain: 210m
 - name: Roland Socha
   id: 23150783
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/23150783/14745672/4/large.jpg
@@ -332,9 +332,9 @@
     biggest_ride_distance: 138.2km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 11
-      distance: 380.13km
-      moving_time: 15h 23m
+      count: 10
+      distance: 359.34km
+      moving_time: 14h 28m
       elevation_gain: 4073m
     ytd_ride_totals:
       count: 28
