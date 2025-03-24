@@ -1,1 +1,20 @@
---- []
+---
+- id: 13963259678
+  start_date: 2025-03-23 11:51:03.000000000 +01:00
+  type: Ride
+  name: Solid Komorniki prolog
+  strava_url: https://www.strava.com/activities/13963259678
+  type_emoji: "\U0001F6B4"
+  distance: 19.97km
+  moving_time: 1h21m24s
+  average_speed: 14.7km/h
+  total_elevation_gain: 327m
+  maps:
+  - https://static.komornikimtb.pl/maps/28825f3be718b01ade3063c4e9d7abfb_600x600.png
+  - https://static.komornikimtb.pl/maps/28825f3be718b01ade3063c4e9d7abfb_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/OORUdjViZ-Xwjm-Sf6vMrEPibuY_JHScuP3phox_RJ4-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/FIfm-8Wz1eNX4_VncuZd4PNpFZXfPaTiB1H5ps3momo-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3chggAQEAiV_CBxCWCYmo1_b1O-9ClTggFtOZU4hJP8-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/DTdraIs2A-pQ1MmmHMFLaxt2XjINBwFD9Zdc1J3QGWE-2048x1536.jpg
