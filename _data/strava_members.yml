@@ -8,9 +8,9 @@
     biggest_ride_distance: 620.25km
     biggest_climb_elevation_gain: 1960.6m
     recent_ride_totals:
-      count: 9
+      count: 8
       distance: 445.62km
-      moving_time: 17h 24m
+      moving_time: 16h 07m
       elevation_gain: 1872m
     ytd_ride_totals:
       count: 15
@@ -332,15 +332,15 @@
     biggest_ride_distance: 138.2km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 11
-      distance: 421.59km
-      moving_time: 16h 51m
-      elevation_gain: 4134m
+      count: 12
+      distance: 442.77km
+      moving_time: 18h 01m
+      elevation_gain: 4672m
     ytd_ride_totals:
-      count: 30
-      distance: 991km
-      moving_time: 41h 19m
-      elevation_gain: 8286m
+      count: 31
+      distance: 1012km
+      moving_time: 42h 29m
+      elevation_gain: 8824m
 - name: Michał Turski
   id: 49583540
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/49583540/14729338/2/large.jpg
@@ -368,9 +368,9 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 1752.2m
     recent_ride_totals:
-      count: 9
-      distance: 100.21km
-      moving_time: '09h 55m'
+      count: 7
+      distance: 69.54km
+      moving_time: 07h 40m
       elevation_gain: 568m
     ytd_ride_totals:
       count: 33
