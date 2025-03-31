@@ -1,1 +1,34 @@
---- []
+---
+- id: 14032765654
+  start_date: 2025-03-30 18:52:19.000000000 +02:00
+  type: Ride
+  name: Evening single-track Komorniki MTB Team
+  strava_url: https://www.strava.com/activities/14032765654
+  type_emoji: "\U0001F6B4"
+  distance: 20.39km
+  moving_time: 1h4m21s
+  average_speed: 19.0km/h
+  total_elevation_gain: 267m
+  maps:
+  - https://static.komornikimtb.pl/maps/d06f1656d5a4e13fd9f4b3eb3ede9a3f_600x600.png
+  - https://static.komornikimtb.pl/maps/d06f1656d5a4e13fd9f4b3eb3ede9a3f_1280x850.png
+  pace: 
+  photos: 
+- id: 13963607968
+  start_date: 2025-03-23 12:35:36.000000000 +01:00
+  type: Ride
+  name: Komorniki Solid Mtb 2025
+  strava_url: https://www.strava.com/activities/13963607968
+  type_emoji: "\U0001F6B4"
+  distance: 18.93km
+  moving_time: 1h4m55s
+  average_speed: 17.5km/h
+  total_elevation_gain: 353m
+  maps:
+  - https://static.komornikimtb.pl/maps/c066951f4329e1ee9947a968c742f18b_600x600.png
+  - https://static.komornikimtb.pl/maps/c066951f4329e1ee9947a968c742f18b_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/YHlxX_bBa_TRTuM8N295q0a3Q1pvMFlVNjpNadhd6ak-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/bMCB6eg3L5Sw2wldVaCy9jVxDHEbkmPvYezvLCJI0Do-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/9khmS-SaMANJA5Lb_miEkjOt34XtESWbKpsbbg_Hkqw-1536x2048.jpg
