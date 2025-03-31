@@ -33,8 +33,7 @@ Ukończ nasz segment na rowerze najwięcej razy w ciągu 90-dniowego okresu, nie
 
 Powiedz TAK i podaj dalej info innym klikając UDOSTĘPNIJ.
 
-### Link do segmentu w Stravie
-
-<https://www.strava.com/segments/38850870>
+* Link do segmentu w Stravie: <https://www.strava.com/segments/38850870>
+* Pobierz plik GPX: <https://static.komornikimtb.pl/gpx/Singletrack-Komorniki-MTB-Team.gpx>
 
 Komorniki MTB Team - zawsze w dobrym kierunku 🙂
