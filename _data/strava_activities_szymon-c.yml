@@ -1,4 +1,19 @@
 ---
+- id: 14048401912
+  start_date: 2025-04-01 14:27:47.000000000 +02:00
+  type: Ride
+  name: Vo2max 5x3m
+  strava_url: https://www.strava.com/activities/14048401912
+  type_emoji: "\U0001F6B4"
+  distance: 37.55km
+  moving_time: 1h17m45s
+  average_speed: 29.0km/h
+  total_elevation_gain: 121m
+  maps:
+  - https://static.komornikimtb.pl/maps/7acc0a015b8b55354b54279577fd1f7f_600x600.png
+  - https://static.komornikimtb.pl/maps/7acc0a015b8b55354b54279577fd1f7f_1280x850.png
+  pace: 
+  photos: 
 - id: 14029151216
   start_date: 2025-03-30 12:55:53.000000000 +02:00
   type: Ride
