@@ -1,4 +1,19 @@
 ---
+- id: 14061040989
+  start_date: 2025-04-02 18:26:08.000000000 +02:00
+  type: Ride
+  name: Evening Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/14061040989
+  type_emoji: "\U0001F6B4"
+  distance: 18.42km
+  moving_time: 1h5m5s
+  average_speed: 17.0km/h
+  total_elevation_gain: 245m
+  maps:
+  - https://static.komornikimtb.pl/maps/6583fc0f2ae46b9dd6d24588d3a8d4f4_600x600.png
+  - https://static.komornikimtb.pl/maps/6583fc0f2ae46b9dd6d24588d3a8d4f4_1280x850.png
+  pace: 
+  photos: 
 - id: 14050374418
   start_date: 2025-04-01 18:07:34.000000000 +02:00
   type: Run
