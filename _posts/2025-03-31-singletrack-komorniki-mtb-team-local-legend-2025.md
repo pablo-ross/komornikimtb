@@ -17,7 +17,7 @@ Chcesz przyczynić się do powstania nowego rowerowego miejsca na mapie Wielkopo
 
 **„Singletrack Komorniki MTB Team”** to robocza nazwa blisko 4,8 km technicznej pętli MTB przygotowanej przez nasz klub specjalnie na pierwsze zawody z cyklu Solid MTB. Dostaliśmy od Was wiele pochwał i pozytywnych opinii o trasie wiec kontynuujemy temat. Chcielibyśmy aby to miejsce na stałe wpisało się na mapie rowerowej okolic Poznania. Póki co na trasie nie ma oznakowania ani strzałek ale jest segment. Segment na Stravie o nazwie - [Singletrack Komorniki MTB Team](https://www.strava.com/segments/38850870). Od tego zaczynamy. Od nas wszystkich zależy co będzie dalej. Teraz najważniejsze to jeździć tym singlem na maxa aby się utrwalił a nie zarósł.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/TrLs-uiIino" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TrLs-uiIino?si=ip6t8j-xu4gU-PGD&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 W związku z tym mamy dla Was świetną propozycję 😱💪 Podejmij wyzwanie i zostań **Local Legend** naszego segmentu a otrzymasz od partnera energetycznego naszego Teamu **Penco Polska** specjalny pakiet żywienia sportowego wartości 1000 zł💥🔥
 
