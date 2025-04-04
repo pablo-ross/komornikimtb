@@ -1,4 +1,22 @@
 ---
+- id: 14069110778
+  start_date: 2025-04-03 15:19:12.000000000 +02:00
+  type: Ride
+  name: In da WPN
+  strava_url: https://www.strava.com/activities/14069110778
+  type_emoji: "\U0001F6B4"
+  distance: 42km
+  moving_time: 1h52m58s
+  average_speed: 22.3km/h
+  total_elevation_gain: 411m
+  maps:
+  - https://static.komornikimtb.pl/maps/f54e2430ddfe2c3d08abe88e65a047b8_600x600.png
+  - https://static.komornikimtb.pl/maps/f54e2430ddfe2c3d08abe88e65a047b8_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/xrxN0Js84vPSYVvE6pFXzU0QrGh9fQsP3WjT82KVHLQ-2048x945.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ZrGgJjpTpvqPalkibKhF02Gh64qGR059PfrfvqAi-9o-945x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/rUWeI5TcIUA_-eWsVwJ8j7G7QAM3JWYJ5kr5F8s9u0w-2048x945.jpg
 - id: 14048401912
   start_date: 2025-04-01 14:27:47.000000000 +02:00
   type: Ride
