@@ -1,4 +1,21 @@
 ---
+- id: 14095809171
+  start_date: 2025-04-06 12:00:37.000000000 +02:00
+  type: Run
+  name: IX KonstantyNOWA 10
+  strava_url: https://www.strava.com/activities/14095809171
+  type_emoji: "\U0001F3C3"
+  distance: 9.58km
+  moving_time: 43m28s
+  average_speed: 
+  total_elevation_gain: 26m
+  maps:
+  - https://static.komornikimtb.pl/maps/cb39168fd967efce1a1d41d60cc39df3_600x600.png
+  - https://static.komornikimtb.pl/maps/cb39168fd967efce1a1d41d60cc39df3_1280x850.png
+  pace: 4m37s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/5j4GVhBVwQerkJKXz3HCACmVjadLTKus-Uv8o1fkkKA-1542x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/UAtauoanjbYCBLlKm3tZk_reT55kb0o8VEmJahVHOa8-1542x2048.jpg
 - id: 14080493911
   start_date: 2025-04-04 19:39:35.000000000 +02:00
   type: Run
