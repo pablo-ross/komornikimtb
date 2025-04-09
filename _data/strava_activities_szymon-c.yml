@@ -1,4 +1,19 @@
 ---
+- id: 14115502578
+  start_date: 2025-04-08 12:30:01.000000000 +02:00
+  type: Ride
+  name: 3x8x40/20
+  strava_url: https://www.strava.com/activities/14115502578
+  type_emoji: "\U0001F6B4"
+  distance: 34.52km
+  moving_time: 1h14m3s
+  average_speed: 28.0km/h
+  total_elevation_gain: 108m
+  maps:
+  - https://static.komornikimtb.pl/maps/903696ab4046bd8bbbffc8d2cbb4ac12_600x600.png
+  - https://static.komornikimtb.pl/maps/903696ab4046bd8bbbffc8d2cbb4ac12_1280x850.png
+  pace: 
+  photos: 
 - id: 14105351441
   start_date: 2025-04-07 12:35:38.000000000 +02:00
   type: Swim
