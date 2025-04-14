@@ -1,4 +1,20 @@
 ---
+- id: 14163351219
+  start_date: 2025-04-13 10:06:32.000000000 +02:00
+  type: Run
+  name: 17 Poznański Polmaraton
+  strava_url: https://www.strava.com/activities/14163351219
+  type_emoji: "\U0001F3C3"
+  distance: 21.38km
+  moving_time: 1h42m35s
+  average_speed: 
+  total_elevation_gain: 58m
+  maps:
+  - https://static.komornikimtb.pl/maps/85f9284d7bfe68e06292f572625b2cf8_600x600.png
+  - https://static.komornikimtb.pl/maps/85f9284d7bfe68e06292f572625b2cf8_1280x850.png
+  pace: 4m48s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/q5p-tbaRPxoHscmZO_oH-yxg3KIO_K2gefJZRLLZD04-1542x2048.jpg
 - id: 14148570527
   start_date: 2025-04-11 20:20:54.000000000 +02:00
   type: Run

@@ -1,4 +1,19 @@
 ---
+- id: 14164507152
+  start_date: 2025-04-13 10:38:18.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/14164507152
+  type_emoji: "\U0001F6B4"
+  distance: 72.06km
+  moving_time: 2h44m44s
+  average_speed: 26.2km/h
+  total_elevation_gain: 240m
+  maps:
+  - https://static.komornikimtb.pl/maps/af2ee315c9b5fa22207328e36e1ebc60_600x600.png
+  - https://static.komornikimtb.pl/maps/af2ee315c9b5fa22207328e36e1ebc60_1280x850.png
+  pace: 
+  photos: 
 - id: 14155468268
   start_date: 2025-04-12 12:41:23.000000000 +02:00
   type: Ride
@@ -124,22 +139,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/WQ0esIiQwLma1VHbW-8gylhDBF9z8uJGVJ2gLJ6qK7E-2048x1365.jpg
   - https://dgtzuqphqg23d.cloudfront.net/zPUh6MoFwkP90meQxtYG58zPSBd_VNH3fqeWo6pPhE4-2048x1151.jpg
   - https://dgtzuqphqg23d.cloudfront.net/ntFF-RhmXfXlQHUXDYN8jGpRbvk2G0VrYclHZaoxo6g-2048x1151.jpg
-- id: 13882532319
-  start_date: 2025-03-14 18:36:16.000000000 +01:00
-  type: VirtualRide
-  name: ROUVY - Grand Canyon | Arizona | USA
-  strava_url: https://www.strava.com/activities/13882532319
-  type_emoji: "\U0001F6B4"
-  distance: 32.78km
-  moving_time: 1h9m23s
-  average_speed: 28.3km/h
-  total_elevation_gain: 340m
-  maps:
-  - https://static.komornikimtb.pl/maps/6d86b9717d91795ac2b57780f737dd84_600x600.png
-  - https://static.komornikimtb.pl/maps/6d86b9717d91795ac2b57780f737dd84_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/W4Exykoc8uWragHLrcK0wQ94S7Xqoy_c0nY_ihIcoig-2048x1365.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/FA_7LLy-whmrFMN0jeX8x4Y_i6GAu0DgFF5zFsmtvX0-2048x1151.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/8zieLGEkShXAt_jN2S_Mn7pAH9tC8EFSJPEGoPmULRI-2048x1151.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/LE6jh1HLQMhgi3r3KojMx0LpqctCx2NsC5uZeqRg-Lg-2048x1151.jpg
