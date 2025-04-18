@@ -1,4 +1,19 @@
 ---
+- id: 14204124763
+  start_date: 2025-04-17 15:05:44.000000000 +02:00
+  type: Ride
+  name: 3x8x40 plus trochę ognia
+  strava_url: https://www.strava.com/activities/14204124763
+  type_emoji: "\U0001F6B4"
+  distance: 45.17km
+  moving_time: 1h37m21s
+  average_speed: 27.8km/h
+  total_elevation_gain: 134m
+  maps:
+  - https://static.komornikimtb.pl/maps/27adb2f2f3f69a7f68949a9f919d3b32_600x600.png
+  - https://static.komornikimtb.pl/maps/27adb2f2f3f69a7f68949a9f919d3b32_1280x850.png
+  pace: 
+  photos: 
 - id: 14194086643
   start_date: 2025-04-16 13:21:01.000000000 +02:00
   type: Ride
@@ -210,17 +225,4 @@
   - https://static.komornikimtb.pl/maps/0d45c1f6f45631d7d9ce71ba44108977_600x600.png
   - https://static.komornikimtb.pl/maps/0d45c1f6f45631d7d9ce71ba44108977_1280x850.png
   pace: 
-  photos: 
-- id: 13915216056
-  start_date: 2025-03-18 11:55:56.000000000 +01:00
-  type: Swim
-  name: Lunch Swim
-  strava_url: https://www.strava.com/activities/13915216056
-  type_emoji: "\U0001F3CA"
-  distance: 1550m
-  moving_time: 30m54s
-  average_speed: 
-  total_elevation_gain: 
-  maps: 
-  pace: 2m00s/100m
   photos: 
