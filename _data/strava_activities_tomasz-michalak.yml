@@ -1,4 +1,23 @@
 ---
+- id: 14233456606
+  start_date: 2025-04-20 13:30:11.000000000 +02:00
+  type: Ride
+  name: Wielkanocny RIDE with wife and daughters
+  strava_url: https://www.strava.com/activities/14233456606
+  type_emoji: "\U0001F6B4"
+  distance: 30.74km
+  moving_time: 1h57m10s
+  average_speed: 15.7km/h
+  total_elevation_gain: 219m
+  maps:
+  - https://static.komornikimtb.pl/maps/e3f840d94e654d4fb8b3d6802b5889ab_600x600.png
+  - https://static.komornikimtb.pl/maps/e3f840d94e654d4fb8b3d6802b5889ab_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Y7Jofm1qoLmMmgEiJF9XkaH-bs0deogudNFcgqGltxc-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/E9W-BASBw8GY9qs_FYHyzMvqLwAW9G98zWJTAPLQlzA-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Mma2NOj9F3BpUowLP3dlrIAkvr__tGOAs8PYNH6l5Q8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ZtbxV6aAgs9HduvBxPIdc7YR6fA5YFfe7xX5hc4P8Ds-2048x1536.jpg
 - id: 14164181267
   start_date: 2025-04-13 10:15:18.000000000 +02:00
   type: Run
@@ -59,22 +78,3 @@
   - https://static.komornikimtb.pl/maps/29ad448db0b1fb666d83fb9103b94322_1280x850.png
   pace: 5m37s/km
   photos: 
-- id: 13946486129
-  start_date: 2025-03-21 15:51:23.000000000 +01:00
-  type: Ride
-  name: Afternoon Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/13946486129
-  type_emoji: "\U0001F6B4"
-  distance: 30.64km
-  moving_time: 1h41m40s
-  average_speed: 18.1km/h
-  total_elevation_gain: 210m
-  maps:
-  - https://static.komornikimtb.pl/maps/03062fe4ceec3c3afef7343fe0ab19c3_600x600.png
-  - https://static.komornikimtb.pl/maps/03062fe4ceec3c3afef7343fe0ab19c3_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/gHPZw4OPKDFj_rMeLpjaw0gbzXwhr62v6xevb9DKBkc-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/zfYFcvnwcgttWbknB4JpPrgOhFbd5pvgt_KBOe0gJig-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/6ujnFJbX-w24OnTsjGZdzsohk5nO8RiXynPzzlrseu0-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/UWY026YXC-Z3II4BQNOH3CrxL9BR4BnbXN0pJC_ShNw-2048x1536.jpg

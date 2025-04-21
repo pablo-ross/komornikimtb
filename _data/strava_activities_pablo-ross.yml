@@ -1,4 +1,20 @@
 ---
+- id: 14232741817
+  start_date: 2025-04-20 11:11:11.000000000 +02:00
+  type: Ride
+  name: Easter Ride
+  strava_url: https://www.strava.com/activities/14232741817
+  type_emoji: "\U0001F6B4"
+  distance: 113.63km
+  moving_time: 3h39m50s
+  average_speed: 31.0km/h
+  total_elevation_gain: 460m
+  maps:
+  - https://static.komornikimtb.pl/maps/7a3c58c10dea1681262f76d0fa4ad955_600x600.png
+  - https://static.komornikimtb.pl/maps/7a3c58c10dea1681262f76d0fa4ad955_1280x850.png
+  pace: 
+  photos:
+  - https://d35tn3x5zm6xrc.cloudfront.net/ryAOMnszvRk24YocoL5qzSNNpTMvWmWHy-_zw0u7hR4/thumbnails/ryAOMnszvRk24YocoL5qzSNNpTMvWmWHy-_zw0u7hR4_1080x1920.jpg
 - id: 14196816343
   start_date: 2025-04-16 17:30:06.000000000 +02:00
   type: Ride
