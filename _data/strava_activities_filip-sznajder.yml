@@ -1,4 +1,22 @@
 ---
+- id: 14240011496
+  start_date: 2025-04-21 09:45:35.000000000 +02:00
+  type: Ride
+  name: Morning Gravel Ride
+  strava_url: https://www.strava.com/activities/14240011496
+  type_emoji: "\U0001F6B4"
+  distance: 45.14km
+  moving_time: 2h16m4s
+  average_speed: 19.9km/h
+  total_elevation_gain: 218m
+  maps:
+  - https://static.komornikimtb.pl/maps/e7e74c592b8df58bf280d51196cefcf4_600x600.png
+  - https://static.komornikimtb.pl/maps/e7e74c592b8df58bf280d51196cefcf4_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/O1VyOV8RrYtFi38MRMV5JqcVnggwq0CgF1QgHAH94Wc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ur2CQvkZEsyOZ6H-O-1giStZtzM9Mh7D2aiFPrsFWbc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/pcOSjrFV3pf33oC5hPVTuyxU7TgBYaFjOTmgNBqo5ZI-1536x2048.jpg
 - id: 14222383856
   start_date: 2025-04-19 11:33:07.000000000 +02:00
   type: Ride
@@ -184,18 +202,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/a9nU7QpPaG0MrqxeG-gB2rTx0dfIPhtW48_43YQJQzo-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/TsPV7D75k013PhkcRAugmN88YVDAW4-Bo98CJn6QXJ8-1536x2048.jpg
-- id: 13954829863
-  start_date: 2025-03-22 12:51:34.000000000 +01:00
-  type: Ride
-  name: Lunch Gravel Ride
-  strava_url: https://www.strava.com/activities/13954829863
-  type_emoji: "\U0001F6B4"
-  distance: 59.2km
-  moving_time: 2h36m44s
-  average_speed: 22.7km/h
-  total_elevation_gain: 267m
-  maps:
-  - https://static.komornikimtb.pl/maps/e75d5a308f16b0b79d11c845525e5592_600x600.png
-  - https://static.komornikimtb.pl/maps/e75d5a308f16b0b79d11c845525e5592_1280x850.png
-  pace: 
-  photos: 
