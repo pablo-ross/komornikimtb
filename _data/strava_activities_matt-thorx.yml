@@ -14,21 +14,6 @@
   - https://static.komornikimtb.pl/maps/029561c11ddf9f0d615b23ec8b8b8388_1280x850.png
   pace: 
   photos: 
-- id: 14241880185
-  start_date: 2025-04-21 08:05:24.000000000 +02:00
-  type: Ride
-  name: Morning Gravel Ride
-  strava_url: https://www.strava.com/activities/14241880185
-  type_emoji: "\U0001F6B4"
-  distance: 101.54km
-  moving_time: 5h33m43s
-  average_speed: 18.3km/h
-  total_elevation_gain: 571m
-  maps:
-  - https://static.komornikimtb.pl/maps/cfb46fee8b8033366d7ef94f9f645058_600x600.png
-  - https://static.komornikimtb.pl/maps/cfb46fee8b8033366d7ef94f9f645058_1280x850.png
-  pace: 
-  photos: 
 - id: 14195014811
   start_date: 2025-04-16 15:24:05.000000000 +02:00
   type: Ride
@@ -87,20 +72,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/7b3103524787d59ff3e2d30107c4cb67_600x600.png
   - https://static.komornikimtb.pl/maps/7b3103524787d59ff3e2d30107c4cb67_1280x850.png
-  pace: 
-  photos: 
-- id: 13963570735
-  start_date: 2025-03-23 10:50:29.000000000 +01:00
-  type: Ride
-  name: Morning Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/13963570735
-  type_emoji: "\U0001F6B4"
-  distance: 21.21km
-  moving_time: 1h24m45s
-  average_speed: 15.0km/h
-  total_elevation_gain: 148m
-  maps:
-  - https://static.komornikimtb.pl/maps/289cb1730baef50cf42b70a24f88e623_600x600.png
-  - https://static.komornikimtb.pl/maps/289cb1730baef50cf42b70a24f88e623_1280x850.png
   pace: 
   photos: 

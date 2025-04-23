@@ -226,18 +226,3 @@
   maps: 
   pace: 1m58s/100m
   photos: 
-- id: 13962767660
-  start_date: 2025-03-23 10:55:25.000000000 +01:00
-  type: Ride
-  name: "W mordę wiatr 1h a z powrotem 40 minut banana \U0001F600\U0001F600\U0001F600"
-  strava_url: https://www.strava.com/activities/13962767660
-  type_emoji: "\U0001F6B4"
-  distance: 52.01km
-  moving_time: 1h40m15s
-  average_speed: 31.1km/h
-  total_elevation_gain: 95m
-  maps:
-  - https://static.komornikimtb.pl/maps/0d45c1f6f45631d7d9ce71ba44108977_600x600.png
-  - https://static.komornikimtb.pl/maps/0d45c1f6f45631d7d9ce71ba44108977_1280x850.png
-  pace: 
-  photos: 
