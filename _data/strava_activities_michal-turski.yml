@@ -193,18 +193,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/jEemOv3GM0RKLBiapBNOr-HK3Vtr0Fc7jj69-OHcDgI-1154x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/Pipzn2JqIUatdTAkjNcKxqSE413w8p_Vbb10Mi6Ebf0-1155x2048.jpg
-- id: 13973575667
-  start_date: 2025-03-24 15:44:26.000000000 +01:00
-  type: Run
-  name: Afternoon Trail Run
-  strava_url: https://www.strava.com/activities/13973575667
-  type_emoji: "\U0001F3C3"
-  distance: 5.15km
-  moving_time: 32m50s
-  average_speed: 
-  total_elevation_gain: 188m
-  maps:
-  - https://static.komornikimtb.pl/maps/eb09dfdb1e37ccab432d98c02865532c_600x600.png
-  - https://static.komornikimtb.pl/maps/eb09dfdb1e37ccab432d98c02865532c_1280x850.png
-  pace: 6m23s/km
-  photos: 
