@@ -1,4 +1,19 @@
 ---
+- id: 14294068760
+  start_date: 2025-04-26 17:25:41.000000000 +02:00
+  type: Ride
+  name: Afternoon Gravel Ride
+  strava_url: https://www.strava.com/activities/14294068760
+  type_emoji: "\U0001F6B4"
+  distance: 45.83km
+  moving_time: 2h23s
+  average_speed: 22.8km/h
+  total_elevation_gain: 197m
+  maps:
+  - https://static.komornikimtb.pl/maps/b40e2758fddfe5d17e26a1785b84200f_600x600.png
+  - https://static.komornikimtb.pl/maps/b40e2758fddfe5d17e26a1785b84200f_1280x850.png
+  pace: 
+  photos: 
 - id: 14275078251
   start_date: 2025-04-24 17:40:27.000000000 +02:00
   type: Ride
@@ -186,18 +201,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/Pv7c94KJ4yiKNAJT_v70sQDqphMDBk9XTn7pZzsxXUw-1536x2048.jpg
-- id: 14004916481
-  start_date: 2025-03-27 18:07:07.000000000 +01:00
-  type: Ride
-  name: Evening Gravel Ride
-  strava_url: https://www.strava.com/activities/14004916481
-  type_emoji: "\U0001F6B4"
-  distance: 43.64km
-  moving_time: 1h53m44s
-  average_speed: 23.0km/h
-  total_elevation_gain: 97m
-  maps:
-  - https://static.komornikimtb.pl/maps/03a6e529267a5a13082e828a314a2233_600x600.png
-  - https://static.komornikimtb.pl/maps/03a6e529267a5a13082e828a314a2233_1280x850.png
-  pace: 
-  photos: 

@@ -1,4 +1,25 @@
 ---
+- id: 14292578132
+  start_date: 2025-04-26 09:15:04.000000000 +02:00
+  type: Ride
+  name: Szutroza Bolesławiec 150km
+  strava_url: https://www.strava.com/activities/14292578132
+  type_emoji: "\U0001F6B4"
+  distance: 147.19km
+  moving_time: 7h21m57s
+  average_speed: 20.0km/h
+  total_elevation_gain: 1090m
+  maps:
+  - https://static.komornikimtb.pl/maps/a13e6a4cbee5dfbb43c3b0f664c53117_600x600.png
+  - https://static.komornikimtb.pl/maps/a13e6a4cbee5dfbb43c3b0f664c53117_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/nnj-fQz-xDnm3bcnSLqHFR9jFH2JE5nyM72WW4TTcc8-956x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4BHzEwk9mUlqlt5OKMeOOQdTILQz35tJX_9IjbYcBYU-1153x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/IR_wPWstkcoUDreG93GxjrvX0nUnNcoKFvzjRsrR4DY-2048x956.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/zqUk6PCLsMYMLWg-qNPCdku38vU9BRy5cZqhN1GHqiQ-2048x1153.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1lqk0-9id3Hkt8HS14ohWQ0IkjoF4cwRBTH_mCUwgT4-1153x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/S3hw0Pj0FBJVQJ74PBCAUDWaVloD94davzXOlmM6Z_Y-1153x2048.jpg
 - id: 14058972817
   start_date: 2025-04-02 14:46:06.000000000 +02:00
   type: Ride

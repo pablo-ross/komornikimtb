@@ -7,37 +7,37 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2025-04-26 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2025-04-27 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
-1|Afternoon Ride|Jacek|22.35|78|364
-2|Afternoon Mountain Bike Ride|Matt|7.64|39|34
-3|Singletrack Konin Bike Ride|Szymon|30.1|89|289
-4|Morning Ride|Mateusz|36.55|76|114
-5|Evening Ride|Mateusz|33.79|70|96
-6|Evening Gravel Ride|Grzegorz|9.62|25|48
-7|Afternoon Mountain Bike Ride|Katarzyna Krzycka|34.8|98|44
-8|Lunch Mountain Bike Ride|Waldemar|19.8|79|53
-9|Morning Ride|Łukasz|41.31|102|166
-10|Morning Mountain Bike Ride|Mateusz|26.29|67|76
-11|Night Ride|Artur|0.0|64|
-12|Indoor Cycling|Artur|29.37|65|
-13|Evening Ride|Aleksandra|14.59|38|48
-14|Afternoon Ride|Nodi|21.5|71|183
-15|Afternoon Gravel Ride|Kri|32.04|75|125
-16|Afternoon Gravel Ride|kamila|37.13|108|147
-17|Morning Ride|Mateusz|60.11|127|204
-18|Afternoon Gravel Ride|Rafal|36.42|84|231
-19|Afternoon Ride|Jacek|27.37|99|509
-20|Afternoon Ride|Prze|35.22|66|118
-21|Afternoon Mountain Bike Ride|Michał|39.91|119|140
-22|Over/under|Szymon|33.67|62|91
-23|Morning Mountain Bike Ride|Adrianna|34.59|103|205
-24|Morning Ride|Aleksandra|14.57|43|80
-25|Evening Ride|Krystian|0.0|65|
-26|Evening Gravel Ride|kamila|23.41|71|96
-27|Czuć święta in town🥵🥸|łukasz|23.66|49|88
-28|Lunch Gravel Ride|Adrian|41.7|103|89
-29|Morning Mountain Bike Ride|Adrianna|27.85|112|363
-30|Afternoon Ride|Artur|12.09|40|72
+1|Afternoon Ride|Prze|68.04|132|196
+2|Afternoon Ride|Adrianna|32.26|91|
+3|Afternoon Ride|Paweł|32.28|93|181
+4|Z kolegą Ride|Szymon|56.5|105|212
+5|Lunch Ride|Artur|37.5|108|297
+6|DT4YOU MTB MARATON OBORNIKI|Krystian|32.45|134|513
+7|3#race🏁 DT4YOU maraton OBORNIKI 🔥👌⚡️🦵|Jacek|32.28|96|531
+8|Komornicka 💯|Roland|113.9|332|692
+9|Komornicka 💯💥|Aleksandra|115.02|361|433
+10|Morning Gravel Ride|Kri|158.05|409|1074
+11|Szutroza Bolesławiec 150km|Grzegorz|147.19|441|1090
+12|Morning Ride|Nodi|107.71|359|657
+13|Komornicka100|Paweł|108.39|334|548
+14|Komornicka 100|Michał|113.4|344|716
+15|The New birthday camel💯|łukasz|31.2|75|205
+16|PYRA TRAIL 2025r|Adrian|157.6|447|839
+17|Morning Gravel Ride|Łukasz|157.66|448|1017
+18|Morning Gravel Ride|bartosz|157.85|452|1227
+19|Afternoon Ride|Jacek|22.35|78|364
+20|Afternoon Mountain Bike Ride|Matt|7.64|39|34
+21|Singletrack Konin Bike Ride|Szymon|30.1|89|289
+22|Morning Ride|Mateusz|36.55|76|114
+23|Evening Ride|Mateusz|33.79|70|96
+24|Evening Gravel Ride|Grzegorz|9.62|25|48
+25|Afternoon Mountain Bike Ride|Katarzyna Krzycka|34.8|98|44
+26|Lunch Mountain Bike Ride|Waldemar|19.8|79|53
+27|Morning Ride|Łukasz|41.31|102|166
+28|Morning Mountain Bike Ride|Mateusz|26.29|67|76
+29|Night Ride|Artur|0.0|64|
+30|Indoor Cycling|Artur|29.37|65|

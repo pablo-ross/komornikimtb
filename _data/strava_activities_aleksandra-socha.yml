@@ -1,4 +1,19 @@
 ---
+- id: 14292765432
+  start_date: 2025-04-26 09:20:47.000000000 +02:00
+  type: Ride
+  name: "Komornicka \U0001F4AF\U0001F4A5"
+  strava_url: https://www.strava.com/activities/14292765432
+  type_emoji: "\U0001F6B4"
+  distance: 115.02km
+  moving_time: 6h1m27s
+  average_speed: 19.1km/h
+  total_elevation_gain: 433m
+  maps:
+  - https://static.komornikimtb.pl/maps/99656000b1f2b0f28a31c2030b54a9e8_600x600.png
+  - https://static.komornikimtb.pl/maps/99656000b1f2b0f28a31c2030b54a9e8_1280x850.png
+  pace: 
+  photos: 
 - id: 14275355758
   start_date: 2025-04-24 19:49:45.000000000 +02:00
   type: Run
@@ -44,8 +59,8 @@
   average_speed: 26.2km/h
   total_elevation_gain: 240m
   maps:
-  - https://static.komornikimtb.pl/maps/af2ee315c9b5fa22207328e36e1ebc60_600x600.png
-  - https://static.komornikimtb.pl/maps/af2ee315c9b5fa22207328e36e1ebc60_1280x850.png
+  - https://static.komornikimtb.pl/maps/2b2e3915e0c4e92611058765eae0a0d1_600x600.png
+  - https://static.komornikimtb.pl/maps/2b2e3915e0c4e92611058765eae0a0d1_1280x850.png
   pace: 
   photos: 
 - id: 14155468268
