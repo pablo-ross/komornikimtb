@@ -8,14 +8,14 @@ stats:
   biggest_ride_distance: 203.57km
   biggest_climb_elevation_gain: 1987.1m
   recent_ride_totals:
-    count: 7
-    distance: 252.82km
-    moving_time: 14h 19m
-    elevation_gain: 1764m
+    count: 8
+    distance: 297.13km
+    moving_time: 17h 16m
+    elevation_gain: 2106m
   ytd_ride_totals:
-    count: 17
-    distance: 518km
-    moving_time: 29h 11m
-    elevation_gain: 3280m
+    count: 18
+    distance: 562km
+    moving_time: 32h 09m
+    elevation_gain: 3622m
 layout: strava_member
 --- 

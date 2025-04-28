@@ -1,8 +1,23 @@
 ---
+- id: 14306474457
+  start_date: 2025-04-27 11:00:00.000000000 +02:00
+  type: Ride
+  name: Lunch Ride
+  strava_url: https://www.strava.com/activities/14306474457
+  type_emoji: "\U0001F6B4"
+  distance: 37.03km
+  moving_time: 2h9m3s
+  average_speed: 17.2km/h
+  total_elevation_gain: 453m
+  maps:
+  - https://static.komornikimtb.pl/maps/9b2f0862cfd244d8ffd92d537f158655_600x600.png
+  - https://static.komornikimtb.pl/maps/9b2f0862cfd244d8ffd92d537f158655_1280x850.png
+  pace: 
+  photos: 
 - id: 14291421964
   start_date: 2025-04-26 12:49:20.000000000 +02:00
   type: Ride
-  name: Lunch Ride
+  name: Wokół jeziora
   strava_url: https://www.strava.com/activities/14291421964
   type_emoji: "\U0001F6B4"
   distance: 37.51km
