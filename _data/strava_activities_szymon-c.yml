@@ -1,4 +1,19 @@
 ---
+- id: 14313713006
+  start_date: 2025-04-28 16:36:18.000000000 +02:00
+  type: Ride
+  name: Coffe Ride z lokalną śmietanką
+  strava_url: https://www.strava.com/activities/14313713006
+  type_emoji: "\U0001F6B4"
+  distance: 77.26km
+  moving_time: 2h24m13s
+  average_speed: 32.1km/h
+  total_elevation_gain: 234m
+  maps:
+  - https://static.komornikimtb.pl/maps/de11ebbb349a8df4fcac09745576e420_600x600.png
+  - https://static.komornikimtb.pl/maps/de11ebbb349a8df4fcac09745576e420_1280x850.png
+  pace: 
+  photos: 
 - id: 14292574084
   start_date: 2025-04-26 15:19:56.000000000 +02:00
   type: Ride
