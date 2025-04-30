@@ -1,4 +1,34 @@
 ---
+- id: 14322847620
+  start_date: 2025-04-29 15:57:15.000000000 +02:00
+  type: Ride
+  name: Biuro Mountain Bike Ride Back
+  strava_url: https://www.strava.com/activities/14322847620
+  type_emoji: "\U0001F6B4"
+  distance: 23.59km
+  moving_time: 56m51s
+  average_speed: 24.9km/h
+  total_elevation_gain: 153m
+  maps:
+  - https://static.komornikimtb.pl/maps/ef2e8677f164eb2e703cbaf6b68a1ae1_600x600.png
+  - https://static.komornikimtb.pl/maps/ef2e8677f164eb2e703cbaf6b68a1ae1_1280x850.png
+  pace: 
+  photos: 
+- id: 14318518381
+  start_date: 2025-04-29 06:44:36.000000000 +02:00
+  type: Ride
+  name: Biuro Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/14318518381
+  type_emoji: "\U0001F6B4"
+  distance: 22.88km
+  moving_time: 53m38s
+  average_speed: 25.6km/h
+  total_elevation_gain: 106m
+  maps:
+  - https://static.komornikimtb.pl/maps/154719b79843bcfdc8c8de91c0aa016c_600x600.png
+  - https://static.komornikimtb.pl/maps/154719b79843bcfdc8c8de91c0aa016c_1280x850.png
+  pace: 
+  photos: 
 - id: 14306773250
   start_date: 2025-04-27 12:59:50.000000000 +02:00
   type: Ride
@@ -81,19 +111,4 @@
   - https://static.komornikimtb.pl/maps/0f0b3c19aa4c0a21ec38f782f8fa2872_600x600.png
   - https://static.komornikimtb.pl/maps/0f0b3c19aa4c0a21ec38f782f8fa2872_1280x850.png
   pace: 5m04s/km
-  photos: 
-- id: 14032765654
-  start_date: 2025-03-30 18:52:19.000000000 +02:00
-  type: Ride
-  name: Evening single-track Komorniki MTB Team
-  strava_url: https://www.strava.com/activities/14032765654
-  type_emoji: "\U0001F6B4"
-  distance: 20.39km
-  moving_time: 1h4m21s
-  average_speed: 19.0km/h
-  total_elevation_gain: 267m
-  maps:
-  - https://static.komornikimtb.pl/maps/d06f1656d5a4e13fd9f4b3eb3ede9a3f_600x600.png
-  - https://static.komornikimtb.pl/maps/d06f1656d5a4e13fd9f4b3eb3ede9a3f_1280x850.png
-  pace: 
   photos: 
