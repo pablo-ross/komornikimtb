@@ -1,4 +1,22 @@
 ---
+- id: 14345316667
+  start_date: 2025-05-01 09:51:30.000000000 +02:00
+  type: Ride
+  name: "Szosa w górach KMTB czyli \U0001F4AFno 1/2025"
+  strava_url: https://www.strava.com/activities/14345316667
+  type_emoji: "\U0001F6B4"
+  distance: 118.49km
+  moving_time: 4h41m38s
+  average_speed: 25.2km/h
+  total_elevation_gain: 1940m
+  maps:
+  - https://static.komornikimtb.pl/maps/c52a82d795eff2510de0d6ff7a3f4a65_600x600.png
+  - https://static.komornikimtb.pl/maps/c52a82d795eff2510de0d6ff7a3f4a65_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/WgoTf80QyyxdJrldOxUdIPo7T-GYGhOSb96e0C3lpRE-945x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/tEuHiVlwQGr9BmFnB64hPvu3xoCqTBk52eYTppOZ9P0-2048x945.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/KNpqadoOWLeTBunv7vxP6ANcIxVkUUdp6DzuWfazu8c-946x2048.jpg
 - id: 14313713006
   start_date: 2025-04-28 16:36:18.000000000 +02:00
   type: Ride
@@ -219,18 +237,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/xrxN0Js84vPSYVvE6pFXzU0QrGh9fQsP3WjT82KVHLQ-2048x945.jpg
   - https://dgtzuqphqg23d.cloudfront.net/ZrGgJjpTpvqPalkibKhF02Gh64qGR059PfrfvqAi-9o-945x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/rUWeI5TcIUA_-eWsVwJ8j7G7QAM3JWYJ5kr5F8s9u0w-2048x945.jpg
-- id: 14048401912
-  start_date: 2025-04-01 14:27:47.000000000 +02:00
-  type: Ride
-  name: Vo2max 5x3m
-  strava_url: https://www.strava.com/activities/14048401912
-  type_emoji: "\U0001F6B4"
-  distance: 37.55km
-  moving_time: 1h17m45s
-  average_speed: 29.0km/h
-  total_elevation_gain: 121m
-  maps:
-  - https://static.komornikimtb.pl/maps/7acc0a015b8b55354b54279577fd1f7f_600x600.png
-  - https://static.komornikimtb.pl/maps/7acc0a015b8b55354b54279577fd1f7f_1280x850.png
-  pace: 
-  photos: 
