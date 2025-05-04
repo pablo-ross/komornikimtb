@@ -1,4 +1,28 @@
 ---
+- id: 14364766659
+  start_date: 2025-05-03 12:06:50.000000000 +02:00
+  type: Ride
+  name: Lunch Ride
+  strava_url: https://www.strava.com/activities/14364766659
+  type_emoji: "\U0001F6B4"
+  distance: 52.28km
+  moving_time: 2h38m43s
+  average_speed: 19.8km/h
+  total_elevation_gain: 242m
+  maps:
+  - https://static.komornikimtb.pl/maps/eb2e89f8498c99b5ea6540c4501517ef_600x600.png
+  - https://static.komornikimtb.pl/maps/eb2e89f8498c99b5ea6540c4501517ef_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/0EErSCdxWCb2xI7QRbpN4iwyNwxQbmnYCGXRCF-Ze3Y-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TGqJP6VEAbTTpmNajJsFYeXPm96qb0WwkL0OdZLcjwQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/wgp-ERTMt-BB5ZlyxBeqeuen9EKwB_cNIHCrJ43CmfI-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/CY2cU5Gesel5eTWLm99Nodn3-jIIbbGod3QBk3ndAf8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/YWOkwuUsezpz3f29oKXoVAMXBoZmoCcfuJc5oCVOqj8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/FZQHAIvPrtKh7a-YJ_305aQpkTf5qpHVZMRPLtHLIbc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/HaoL5QTEBC7B8TAf6ptF7McEyLMBv1mPxOflKWu3aVI-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/d6DGaLpgxW0I6j7CBc5vgd5TYE8QtkKsb4eVA-sYTEA-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/by7OCFk3537N5IYhzCqciYRrn4Sm0GPis3N9MFc6c4M-1536x2048.jpg
 - id: 14344191266
   start_date: 2025-05-01 13:18:39.000000000 +02:00
   type: Ride
@@ -91,19 +115,4 @@
   - https://static.komornikimtb.pl/maps/e3092ea6e275701f48add0a89b9bc3e1_600x600.png
   - https://static.komornikimtb.pl/maps/e3092ea6e275701f48add0a89b9bc3e1_1280x850.png
   pace: 5m55s/km
-  photos: 
-- id: 14065369520
-  start_date: 2025-04-03 07:40:45.000000000 +02:00
-  type: Run
-  name: Morning Run
-  strava_url: https://www.strava.com/activities/14065369520
-  type_emoji: "\U0001F3C3"
-  distance: 10.01km
-  moving_time: 55m30s
-  average_speed: 
-  total_elevation_gain: 35m
-  maps:
-  - https://static.komornikimtb.pl/maps/d036b7471d6b2f852dbb865fa16986f7_600x600.png
-  - https://static.komornikimtb.pl/maps/d036b7471d6b2f852dbb865fa16986f7_1280x850.png
-  pace: 5m33s/km
   photos: 
