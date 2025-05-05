@@ -1,4 +1,19 @@
 ---
+- id: 14375097163
+  start_date: 2025-05-04 13:05:03.000000000 +02:00
+  type: Run
+  name: Wings For Life 2025
+  strava_url: https://www.strava.com/activities/14375097163
+  type_emoji: "\U0001F3C3"
+  distance: 22.15km
+  moving_time: 1h53m43s
+  average_speed: 
+  total_elevation_gain: 151m
+  maps:
+  - https://static.komornikimtb.pl/maps/5987c0dfabf9201b4a6dadd2bd7ab85f_600x600.png
+  - https://static.komornikimtb.pl/maps/5987c0dfabf9201b4a6dadd2bd7ab85f_1280x850.png
+  pace: 5m08s/km
+  photos: 
 - id: 14341110117
   start_date: 2025-05-01 04:56:09.000000000 +02:00
   type: Ride
@@ -164,19 +179,4 @@
   - https://static.komornikimtb.pl/maps/2fbdd998af3c02a7fe167181d32c46ad_600x600.png
   - https://static.komornikimtb.pl/maps/2fbdd998af3c02a7fe167181d32c46ad_1280x850.png
   pace: 5m57s/km
-  photos: 
-- id: 14075628422
-  start_date: 2025-04-04 09:51:44.000000000 +02:00
-  type: Run
-  name: Morning Trail Run
-  strava_url: https://www.strava.com/activities/14075628422
-  type_emoji: "\U0001F3C3"
-  distance: 10.05km
-  moving_time: 50m43s
-  average_speed: 
-  total_elevation_gain: 118m
-  maps:
-  - https://static.komornikimtb.pl/maps/b858aa813e89d54bfbe686d00adfe2ac_600x600.png
-  - https://static.komornikimtb.pl/maps/b858aa813e89d54bfbe686d00adfe2ac_1280x850.png
-  pace: 5m03s/km
   photos: 
