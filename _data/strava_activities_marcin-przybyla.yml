@@ -1,4 +1,21 @@
 ---
+- id: 14387308503
+  start_date: 2025-05-05 19:20:14.000000000 +02:00
+  type: Run
+  name: Evening Warta Run
+  strava_url: https://www.strava.com/activities/14387308503
+  type_emoji: "\U0001F3C3"
+  distance: 7.37km
+  moving_time: 39m32s
+  average_speed: 
+  total_elevation_gain: 28m
+  maps:
+  - https://static.komornikimtb.pl/maps/95872664d4e9331f53b2ae8c4e90a856_600x600.png
+  - https://static.komornikimtb.pl/maps/95872664d4e9331f53b2ae8c4e90a856_1280x850.png
+  pace: 5m22s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/FabXJ8WSsB3E7cmE_ZbTQYPHz8O4O_M4HqEX_AYkfxE-2048x946.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5vfWJN11VuU7rRvEWb_H11LMo4aJZYkrCq4xfArq2Yc-2048x946.jpg
 - id: 14373798315
   start_date: 2025-05-04 11:01:55.000000000 +02:00
   type: Ride
