@@ -1,4 +1,19 @@
 ---
+- id: 14396480402
+  start_date: 2025-05-06 17:29:51.000000000 +02:00
+  type: Ride
+  name: 6x3,5m vo2max
+  strava_url: https://www.strava.com/activities/14396480402
+  type_emoji: "\U0001F6B4"
+  distance: 35.77km
+  moving_time: 1h11m9s
+  average_speed: 30.2km/h
+  total_elevation_gain: 97m
+  maps:
+  - https://static.komornikimtb.pl/maps/e10c8f39d9d1de6fe9eff1aabae5f3d1_600x600.png
+  - https://static.komornikimtb.pl/maps/e10c8f39d9d1de6fe9eff1aabae5f3d1_1280x850.png
+  pace: 
+  photos: 
 - id: 14367083796
   start_date: 2025-05-03 18:09:17.000000000 +02:00
   type: Ride
