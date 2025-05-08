@@ -170,10 +170,10 @@
     biggest_ride_distance: 335.92km
     biggest_climb_elevation_gain: 727.2m
     recent_ride_totals:
-      count: 15
-      distance: 798.81km
-      moving_time: 34h 22m
-      elevation_gain: 3841m
+      count: 14
+      distance: 755.73km
+      moving_time: 32h 32m
+      elevation_gain: 3609m
     ytd_ride_totals:
       count: 32
       distance: 1725km
@@ -279,14 +279,14 @@
     biggest_climb_elevation_gain: 971.6m
     recent_ride_totals:
       count: 9
-      distance: 285.89km
-      moving_time: 15h 59m
-      elevation_gain: 1803m
+      distance: 279.36km
+      moving_time: 15h 11m
+      elevation_gain: 1612m
     ytd_ride_totals:
-      count: 33
-      distance: 784km
-      moving_time: 57h 11m
-      elevation_gain: 4495m
+      count: 34
+      distance: 815km
+      moving_time: 58h 46m
+      elevation_gain: 4601m
 - name: Sebastian Inczewski
   id: 36051319
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/36051319/10635839/2/large.jpg
@@ -296,14 +296,14 @@
     biggest_ride_distance: 45.94km
     biggest_climb_elevation_gain: 352.8m
     recent_ride_totals:
-      count: 1
-      distance: 20.39km
-      moving_time: 01h 48m
+      count: 3
+      distance: 47.61km
+      moving_time: 03h 43m
       elevation_gain: 7m
     ytd_ride_totals:
-      count: 1
-      distance: 20km
-      moving_time: 01h 48m
+      count: 3
+      distance: 47km
+      moving_time: 03h 43m
       elevation_gain: 7m
 - name: Tomasz Michalak
   id: 50102075
@@ -368,10 +368,10 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 1752.2m
     recent_ride_totals:
-      count: 13
-      distance: 433.07km
-      moving_time: 23h 48m
-      elevation_gain: 3906m
+      count: 11
+      distance: 364.89km
+      moving_time: 20h 00m
+      elevation_gain: 3037m
     ytd_ride_totals:
       count: 50
       distance: 928km
