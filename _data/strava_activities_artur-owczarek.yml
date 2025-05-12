@@ -1,4 +1,19 @@
 ---
+- id: 14444715130
+  start_date: 2025-05-11 11:00:22.000000000 +02:00
+  type: Ride
+  name: Strefa MTB Sudety Głuszyca
+  strava_url: https://www.strava.com/activities/14444715130
+  type_emoji: "\U0001F6B4"
+  distance: 23.63km
+  moving_time: 1h25m21s
+  average_speed: 16.6km/h
+  total_elevation_gain: 472m
+  maps:
+  - https://static.komornikimtb.pl/maps/67c0652d21d08d22ea2df129ee7ab7f9_600x600.png
+  - https://static.komornikimtb.pl/maps/67c0652d21d08d22ea2df129ee7ab7f9_1280x850.png
+  pace: 
+  photos: 
 - id: 14428340693
   start_date: 2025-05-09 19:28:20.000000000 +02:00
   type: Ride

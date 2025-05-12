@@ -1,4 +1,32 @@
 ---
+- id: 14446014665
+  start_date: 2025-05-11 09:48:52.000000000 +02:00
+  type: Ride
+  name: Morning Gravel Ride
+  strava_url: https://www.strava.com/activities/14446014665
+  type_emoji: "\U0001F6B4"
+  distance: 57.28km
+  moving_time: 3h30m7s
+  average_speed: 16.4km/h
+  total_elevation_gain: 873m
+  maps:
+  - https://static.komornikimtb.pl/maps/06342b774e16e46f5237a050ddc35917_600x600.png
+  - https://static.komornikimtb.pl/maps/06342b774e16e46f5237a050ddc35917_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/pi0mI1W0eSk_mN1ry1ilkHv2Y7Z8Vr3t4jxZKXjxu64-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/NlMwG2-aOkUSLhhHQeySXCrperiSajzpB3_bn88d4_I-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/K3ehWN6SunOqGNxB41Vr-NVLTcj9P0fuo9s3Az1-GsU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/nnyF4DamfQGP9JMS_fAZ4mM9GQqq3vSsT5dSPAwAXpY-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/AR7kpDz9XCEck5nodQpz0ZbWULWP1u4eyWXc30iZilQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/G5I_vhi5k-P80BaSQKqAlvQNngJRYpEGbIoXU5lUS4Y-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/gbLQGcHon9fQ9P2T4FUpkDf0DOcRmpyIvj4c9_jzWdQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/zOa7AC_NmdeXOfcoq_CHNYli7K2XYI0_1uTwf0XVTzM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/8mH8kD_vPxA9b0IfDQ_44yTMyHmNQ47pEWK349OZ6A0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uXEEuWPu9fAknN2WA4o4CIfo2TDoBoNmOJxshMXdBdw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/wyWFjIANF4gS-4Vc47rtWxwk0tXZqd53e-xImnU2cMU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/b3xd9HuzDRIObZPoyZ5unEz5_idyDRbgE8He1SqN5Kw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/46G4DI1CQC41XJiCSFgjOtjZ-SSn90u1X0RCNQHMUjc-1536x2048.jpg
 - id: 14436990875
   start_date: 2025-05-10 16:11:41.000000000 +02:00
   type: Run

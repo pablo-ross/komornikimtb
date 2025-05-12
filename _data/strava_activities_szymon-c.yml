@@ -1,4 +1,19 @@
 ---
+- id: 14444249810
+  start_date: 2025-05-11 09:27:05.000000000 +02:00
+  type: Ride
+  name: Wspólna jazda
+  strava_url: https://www.strava.com/activities/14444249810
+  type_emoji: "\U0001F6B4"
+  distance: 80.29km
+  moving_time: 2h28m32s
+  average_speed: 32.4km/h
+  total_elevation_gain: 231m
+  maps:
+  - https://static.komornikimtb.pl/maps/b2fdf3f946f6683bd2f4f3f99da1c4e0_600x600.png
+  - https://static.komornikimtb.pl/maps/b2fdf3f946f6683bd2f4f3f99da1c4e0_1280x850.png
+  pace: 
+  photos: 
 - id: 14426148826
   start_date: 2025-05-09 14:45:02.000000000 +02:00
   type: Ride
