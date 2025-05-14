@@ -2,7 +2,7 @@
 - id: 14458737106
   start_date: 2025-05-12 19:19:10.000000000 +02:00
   type: Run
-  name: Evening Run
+  name: Evening Warta Run
   strava_url: https://www.strava.com/activities/14458737106
   type_emoji: "\U0001F3C3"
   distance: 9.41km
@@ -197,26 +197,3 @@
   - https://static.komornikimtb.pl/maps/37c04cd246359a470b20904bc7a3a2e9_1280x850.png
   pace: 
   photos: 
-- id: 14163298495
-  start_date: 2025-04-13 10:07:25.000000000 +02:00
-  type: Run
-  name: 17. Półmaraton Poznań
-  strava_url: https://www.strava.com/activities/14163298495
-  type_emoji: "\U0001F3C3"
-  distance: 21.26km
-  moving_time: 1h53m9s
-  average_speed: 
-  total_elevation_gain: 63m
-  maps:
-  - https://static.komornikimtb.pl/maps/dee41b3deb021efa5372b415fa909c93_600x600.png
-  - https://static.komornikimtb.pl/maps/dee41b3deb021efa5372b415fa909c93_1280x850.png
-  pace: 5m19s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/JxMrcMN5_DLZVCKd11aB6n7HN_SoludLhaRgWJKGPWQ-1152x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/R-LMmjivaaVea3qjbwCBKKjapQ3c9JlPRV8sItNiONc-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/miXn1V_Gre_D2SFSI3hOFutZD8LS8IWf2xYkeXUrD88-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/G2XsIWuTkv2rOev5PMIQtUi3qCBWaXW5zU0qzEpDHcM-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Yjkj_zfiH38ej9AKe29NBROsgdgVk0D3oMgMpoAre54-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/F4Rds0BqKqVLhPwrBbGmZGMUV47B9d-yJ2D625deUlM-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ZV6g9YWiIEBmwoP4rHbZEg3gbYV5P1LU9Ju7uAjP9c8-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/_stZaRzSlWhAgpKeR4YmAEDdIya9MlyFXSRQB3GSeJE-1536x2048.jpg
