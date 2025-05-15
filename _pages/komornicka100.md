@@ -28,9 +28,7 @@ Sercem projektu Komornicka 100 jest zaawansowana technologia, która działa w t
 
 4. **Aktualizacja rankingu** - Po pozytywnej weryfikacji, aktywność jest zaliczana do wyzwania, a uczestnik otrzymuje punkt na tablicy wyników. System automatycznie aktualizuje ranking w czasie rzeczywistym.
 
-5. **Powiadomienie uczestnika** - Po weryfikacji, uczestnik otrzymuje e-mail z informacją o zaliczeniu aktywności, wraz z szczegółami dotyczącymi przejazdu i aktualną pozycją w rankingu.
-
-Co ważne, system jest zaprojektowany tak, aby zapewnić uczciwe warunki dla wszystkich uczestników. Dzięki wbudowanym mechanizmom przeciwdziałania oszustwom, Komornicka 100 gwarantuje, że tylko prawdziwe przejazdy są zaliczane do klasyfikacji.
+5. **Powiadomienie uczestnika** - Po weryfikacji, uczestnik otrzymuje e-mail z informacją o zaliczeniu aktywności, wraz z szczegółami dotyczącymi przejazdu.
 
 ## Dla kogo jest Komornicka 100?
 
@@ -92,11 +90,11 @@ Klub sportowy **Komorniki MTB Team**, organizator wydarzenia, to grupa pasjonat�
 
 Jeśli jesteś entuzjastą kolarstwa, lubisz wyzwania lub po prostu szukasz motywacji do aktywności fizycznej, Komornicka 100 jest idealnym projektem dla Ciebie. Dzięki innowacyjnemu systemowi weryfikacji, możesz uczestniczyć w wyzwaniu na własnych zasadach - kiedy chcesz i w swoim własnym tempie.
 
-Dołącz do społeczności rowerzystów, odkrywaj piękne trasy wokół Komornik i rywalizuj w przyjaznej atmosferze. Wszystko to za darmo, bez zbędnych formalności i ograniczeń czasowych.
+Dołącz do społeczności rowerzystów, odkrywaj piękne trasy wokół gminy Komorniki i rywalizuj w przyjaznej atmosferze. Wszystko to za darmo, bez zbędnych formalności i ograniczeń czasowych.
 
 Odwiedź stronę [komornicka100.pl](https://komornicka100.pl), zarejestruj się, połącz swoje konto ze Stravą i rozpocznij swoją przygodę z Komornicka 100 już dziś!
 
-Projekt poszukuje również partnerów i sponsorów, aby jeszcze lepiej rozwijać kulturę kolarską w regionie. Jeśli jesteś zainteresowany wsparciem tego innowacyjnego przedsięwzięcia, skontaktuj się z organizatorami poprzez stronę wydarzenia.
+Poszukujemy również partnerów i sponsorów, aby jeszcze lepiej rozwijać kulturę kolarską w regionie. Jeśli jesteś zainteresowany/a wsparciem tego innowacyjnego przedsięwzięcia, skontaktuj się z organizatorami poprzez stronę wydarzenia.
 
 ---
 
