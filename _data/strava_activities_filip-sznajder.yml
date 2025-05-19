@@ -1,4 +1,21 @@
 ---
+- id: 14517428863
+  start_date: 2025-05-18 09:01:24.000000000 +02:00
+  type: Ride
+  name: Solid Gravel Race Owińska
+  strava_url: https://www.strava.com/activities/14517428863
+  type_emoji: "\U0001F6B4"
+  distance: 91.33km
+  moving_time: 3h52m5s
+  average_speed: 23.6km/h
+  total_elevation_gain: 716m
+  maps:
+  - https://static.komornikimtb.pl/maps/e340dd2f28dd2a77fbef2bc0b761e3ca_600x600.png
+  - https://static.komornikimtb.pl/maps/e340dd2f28dd2a77fbef2bc0b761e3ca_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Yqz0k8UnjgkBMrQOlcOZZJcjEiicfCr_zqI11Enh4XQ-1536x2048.jpg
+  - https://d35tn3x5zm6xrc.cloudfront.net/wiycxiGP8cmoub79M64RI8w0Qtgl0GklkMMFJ76h_4Q/thumbnails/wiycxiGP8cmoub79M64RI8w0Qtgl0GklkMMFJ76h_4Q_478x850.jpg
 - id: 14510451499
   start_date: 2025-05-17 17:31:42.000000000 +02:00
   type: Ride

@@ -1,4 +1,31 @@
 ---
+- id: 14521188622
+  start_date: 2025-05-18 09:03:47.000000000 +02:00
+  type: Ride
+  name: Boys Trip s02e02
+  strava_url: https://www.strava.com/activities/14521188622
+  type_emoji: "\U0001F6B4"
+  distance: 69.71km
+  moving_time: 4h25m56s
+  average_speed: 15.7km/h
+  total_elevation_gain: 1396m
+  maps:
+  - https://static.komornikimtb.pl/maps/b99ef5d55fbfafa881fc2a351a521516_600x600.png
+  - https://static.komornikimtb.pl/maps/b99ef5d55fbfafa881fc2a351a521516_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/mTkT9VNO0_lkE4C_l5PvwwJyQ_OZaZTswn1oHTgYxvg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/MK7GllzIn6nYb6508kxKHF0O7FrLa4r-kWQRqd9JAJ4-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/NuBIXt3jXTxvYBwwBkmANsTiyQiAZgvKs8MJV1otRVc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4pANQrg7KQEpUmhJ_2hsUOBDoCI4WQBwkDthxLAXdLI-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/veN-0t_NOXw5t_D0MrdWJeWtTCuITl_xpRU0pXLfOys-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/d8VWoXAwdacliMgAbh6JJAQNtKai4S1iOLob2MzAtKs-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/KWEVGuOVKWNj5gbWjXmGcN20PxN7YZZS27jfQYvV0Mc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Wn6A6JaoF-OS4ylj4CRGl_6BMg2gQN_xHp3LYCA_aOI-1536x2048.jpg
+  - 
+  - 
+  - https://dgtzuqphqg23d.cloudfront.net/DS6bqaOSHgSQY3K1jnEsnxN19ODBjprQjQTYBG6yh_M-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/eLgqHPPxE_KU6FRSFfOluUkU3QTo7YSV3-CowuTLNcQ-1536x2048.jpg
 - id: 14510092817
   start_date: 2025-05-17 10:53:37.000000000 +02:00
   type: Ride

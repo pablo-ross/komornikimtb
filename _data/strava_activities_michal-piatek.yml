@@ -1,4 +1,19 @@
 ---
+- id: 14517513256
+  start_date: 2025-05-18 11:13:51.000000000 +02:00
+  type: Ride
+  name: Solid Owińska
+  strava_url: https://www.strava.com/activities/14517513256
+  type_emoji: "\U0001F6B4"
+  distance: 23km
+  moving_time: 1h22m38s
+  average_speed: 16.7km/h
+  total_elevation_gain: 373m
+  maps:
+  - https://static.komornikimtb.pl/maps/4f74f8e7f96e5ef24125097bcac01d86_600x600.png
+  - https://static.komornikimtb.pl/maps/4f74f8e7f96e5ef24125097bcac01d86_1280x850.png
+  pace: 
+  photos: 
 - id: 14445629009
   start_date: 2025-05-11 11:09:49.000000000 +02:00
   type: Ride

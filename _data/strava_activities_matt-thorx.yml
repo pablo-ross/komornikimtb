@@ -1,4 +1,19 @@
 ---
+- id: 14521415638
+  start_date: 2025-05-18 09:02:49.000000000 +02:00
+  type: Ride
+  name: Alpe Adria dzień 2
+  strava_url: https://www.strava.com/activities/14521415638
+  type_emoji: "\U0001F6B4"
+  distance: 74.42km
+  moving_time: 6h16m28s
+  average_speed: 11.9km/h
+  total_elevation_gain: 1518m
+  maps:
+  - https://static.komornikimtb.pl/maps/a2062e34dc07be2ffe1b061e2fa0e251_600x600.png
+  - https://static.komornikimtb.pl/maps/a2062e34dc07be2ffe1b061e2fa0e251_1280x850.png
+  pace: 
+  photos: 
 - id: 14509599804
   start_date: 2025-05-17 10:48:17.000000000 +02:00
   type: Ride
