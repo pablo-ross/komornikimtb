@@ -1,4 +1,30 @@
 ---
+- id: 14540906116
+  start_date: 2025-05-20 09:30:57.000000000 +02:00
+  type: Ride
+  name: Boys Trip s02e04
+  strava_url: https://www.strava.com/activities/14540906116
+  type_emoji: "\U0001F6B4"
+  distance: 86.12km
+  moving_time: 3h58m5s
+  average_speed: 21.7km/h
+  total_elevation_gain: 708m
+  maps:
+  - https://static.komornikimtb.pl/maps/b716354e7482de7781eb61b5668166d1_600x600.png
+  - https://static.komornikimtb.pl/maps/b716354e7482de7781eb61b5668166d1_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/6P5N0vUnrneb8GNa6cT2LaNZ_T4iRSTBfHTTNU323go-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/VBecNLwDcgBgFnmuvWIoWfhKhYJmAUHi7FeJ22trB5g-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ioj2BsBY1DIqc6ZQms0xlL86Q0NdqETQjm3VUd8veX8-1537x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/VmAVJFhYaH-0NcP5F3bFcRT-WyDrPogMMdyeXci8XTo-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Idn-ZezoeZTMnqMFMBLhT36RquQHtTT_ii3YGyF1SZo-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/-KlNoC06pkkjX8-_4l87d0TBfx36eeWtXK18bru5h3A-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/KRweU7ZiR1AtuiQx2VZKYaZi4vQJR-N5CDIGsFRQP2I-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/wBzAtLQrt_hs3TmGW5rvHmuFG6M47BN3HqntZG9xPfM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2mZQWoZhnpfWpNeQvf9EjunOBpxQR9TWceoR1L0f7Bk-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1R5OVB5zprKyU07fRRGJ60HqD-woEwPpTx2TyGVAE_E-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/WenzBLhOZW7_D6Jm0ZL2cGorrIvczV3AeSs39gSC4xI-1536x2048.jpg
 - id: 14532306050
   start_date: 2025-05-19 09:09:43.000000000 +02:00
   type: Ride
@@ -128,19 +154,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/ErWHvG2f2b2QgO5UVZKhWuKIcosKXIAmomJJ5fmJ4RQ-2048x1368.jpg
   - https://dgtzuqphqg23d.cloudfront.net/DAFnPERoFa5lWz2gZEwGYQcz7Xu4mL2jWdw3QDZA3j0-1536x2048.jpg
-- id: 14232741817
-  start_date: 2025-04-20 11:11:11.000000000 +02:00
-  type: Ride
-  name: Easter Ride
-  strava_url: https://www.strava.com/activities/14232741817
-  type_emoji: "\U0001F6B4"
-  distance: 113.63km
-  moving_time: 3h39m50s
-  average_speed: 31.0km/h
-  total_elevation_gain: 460m
-  maps:
-  - https://static.komornikimtb.pl/maps/7a3c58c10dea1681262f76d0fa4ad955_600x600.png
-  - https://static.komornikimtb.pl/maps/7a3c58c10dea1681262f76d0fa4ad955_1280x850.png
-  pace: 
-  photos:
-  - https://d35tn3x5zm6xrc.cloudfront.net/ryAOMnszvRk24YocoL5qzSNNpTMvWmWHy-_zw0u7hR4/thumbnails/ryAOMnszvRk24YocoL5qzSNNpTMvWmWHy-_zw0u7hR4_1080x1920.jpg

@@ -1,4 +1,19 @@
 ---
+- id: 14539305325
+  start_date: 2025-05-20 13:58:29.000000000 +02:00
+  type: Ride
+  name: 80/40 x20
+  strava_url: https://www.strava.com/activities/14539305325
+  type_emoji: "\U0001F6B4"
+  distance: 35.73km
+  moving_time: 1h8m41s
+  average_speed: 31.2km/h
+  total_elevation_gain: 116m
+  maps:
+  - https://static.komornikimtb.pl/maps/989a29ac8cb35170af5d20f56506ba39_600x600.png
+  - https://static.komornikimtb.pl/maps/989a29ac8cb35170af5d20f56506ba39_1280x850.png
+  pace: 
+  photos: 
 - id: 14468741551
   start_date: 2025-05-13 16:51:04.000000000 +02:00
   type: Ride

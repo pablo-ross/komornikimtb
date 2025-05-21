@@ -7,37 +7,37 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2025-05-20 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2025-05-21 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
-1|Morning Mountain Bike Ride|Matt|72.93|294|1075
-2|Boys Trip s02e03|Pablo|71.6|222|1132
-3|Evening Ride|Adrianna|28.16|101|
-4|Afternoon Mountain Bike Ride|Nodi|10.24|37|132
-5|Lunch Ride|Roland|22.57|77|
-6|Solid Owińska|Michał|22.99|82|373
-7|Lunch Ride|Jędrzej|22.77|67|408
-8|SOLID MTB MARATON Owinska 2025|Krystian|22.92|73|420
-9|Solid MTB OWIŃSKA 2025|Marcin|39.74|126|832
-10|Alpe Adria #2 Gravel Ride|Kri|69.16|262|1360
-11|Boys Trip s02e02|Pablo|69.71|265|1396
-12|Alpe Adria dzień 2|Matt|74.42|376|1518
-13|Night Ride|Adrianna|23.79|81|
-14|Night Ride|Adrianna|24.25|82|
-15|Evening Mountain Bike Ride|Nodi|9.24|36|128
-16|Evening Ride|Roland|23.87|67|
-17|Komorniki MTB Single Ride|Marcin|30.53|95|477
-18|Alpe Adria #1 Gravel Ride|Kri|54.43|158|473
-19|Boys Trip s02e01|Pablo|56.53|175|551
-20|Alpe Adria dzień 1|Matt|60.0|248|510
-21|Morning Gravel Ride|Łukasz|73.0|214|270
-22|Night Ride|Krystian|0.0|90|
-23|Evening Ride|Adrianna|25.42|79|
-24|Morning Gravel Ride|Łukasz|79.08|216|
-25|Afternoon Mountain Bike Ride|Krystian|33.45|95|327
-26|Afternoon Mountain Bike Ride|Katarzyna Krzycka|9.27|28|6
-27|Morning Mountain Bike Ride|Adrianna|34.6|98|211
-28|Morning Ride|Mateusz|25.8|54|62
-29|Evening Mountain Bike Ride|Katarzyna Krzycka|9.32|27|7
-30|Morning Ride|Adrianna|26.24|7835|
+1|Night Ride|Aleksandra|14.74|44|38
+2|Afternoon Mountain Bike Ride|Prze|46.36|133|371
+3|Afternoon Mountain Bike Ride|Mateusz|60.31|162|402
+4|Afternoon Ride|Jędrzej|54.66|188|812
+5|Afternoon Ride|Karol|28.45|62|69
+6|Afternoon Mountain Bike Ride|Katarzyna Krzycka|30.07|94|35
+7|Afternoon Ride|Roland|17.68|58|
+8|80/40 x20|Szymon|35.72|68|116
+9|Lunch Ride|Aleksandra|14.66|42|60
+10|Family Ride|Szymon|4.11|24|31
+11|Lunch Mountain Bike Ride|Adrian|25.03|78|341
+12|Morning Mountain Bike Ride|Matt|91.61|352|669
+13|Boys Trip s02e04|Pablo|86.12|238|708
+14|Alpe Adria #4 Gravel Ride|Kri|85.51|242|616
+15|Morning Mountain Bike Ride|Adrianna|30.09|72|153
+16|Morning Mountain Bike Ride|Adrianna|5.91|16|23
+17|Morning Mountain Bike Ride|Adrianna|7.64|23|34
+18|Morning Ride|Mateusz|26.38|58|61
+19|Morning Mountain Bike Ride|Matt|72.93|294|1075
+20|Boys Trip s02e03|Pablo|71.6|222|1132
+21|Alpe Adria #3 Gravel Ride|Kri|70.83|227|1067
+22|Evening Ride|Adrianna|28.16|101|
+23|Afternoon Mountain Bike Ride|Nodi|10.24|37|132
+24|Lunch Ride|Roland|22.57|77|
+25|Solid Owińska|Michał|22.99|82|373
+26|Lunch Ride|Jędrzej|22.77|67|408
+27|SOLID MTB MARATON Owinska 2025|Krystian|22.92|73|420
+28|Solid MTB OWIŃSKA 2025|Marcin|39.74|126|832
+29|Alpe Adria #2 Gravel Ride|Kri|69.16|262|1360
+30|Boys Trip s02e02|Pablo|69.71|265|1396
