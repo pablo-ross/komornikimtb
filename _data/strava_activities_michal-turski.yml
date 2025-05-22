@@ -1,4 +1,19 @@
 ---
+- id: 14550819514
+  start_date: 2025-05-21 15:24:04.000000000 +02:00
+  type: Run
+  name: Afternoon Trail Run
+  strava_url: https://www.strava.com/activities/14550819514
+  type_emoji: "\U0001F3C3"
+  distance: 8.1km
+  moving_time: 45m9s
+  average_speed: 
+  total_elevation_gain: 188m
+  maps:
+  - https://static.komornikimtb.pl/maps/428418590fde0f3760b005828395bbc9_600x600.png
+  - https://static.komornikimtb.pl/maps/428418590fde0f3760b005828395bbc9_1280x850.png
+  pace: 5m34s/km
+  photos: 
 - id: 14514750736
   start_date: 2025-05-18 07:20:11.000000000 +02:00
   type: Run
@@ -153,20 +168,3 @@
   - https://static.komornikimtb.pl/maps/353aa890aad44c4bcc235855704e473f_1280x850.png
   pace: 5m17s/km
   photos: 
-- id: 14239106340
-  start_date: 2025-04-21 06:01:24.000000000 +02:00
-  type: Ride
-  name: Morning Gravel Ride
-  strava_url: https://www.strava.com/activities/14239106340
-  type_emoji: "\U0001F6B4"
-  distance: 93.42km
-  moving_time: 4h5m50s
-  average_speed: 22.8km/h
-  total_elevation_gain: 559m
-  maps:
-  - https://static.komornikimtb.pl/maps/71639d3506857c8522036748aa503fac_600x600.png
-  - https://static.komornikimtb.pl/maps/71639d3506857c8522036748aa503fac_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/UH0Px8JpjtAarjVCZa2lnj6XPP34Yd5IMywAILiC0Dc-1156x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/dWiJ6yF7wLcsNNUGD5ylBkSekv77z1LOtKCIbsLtf1c-1154x2048.jpg
