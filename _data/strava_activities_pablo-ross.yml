@@ -1,4 +1,28 @@
 ---
+- id: 14561302422
+  start_date: 2025-05-22 09:18:16.000000000 +02:00
+  type: Ride
+  name: Boys Trip s02e06
+  strava_url: https://www.strava.com/activities/14561302422
+  type_emoji: "\U0001F6B4"
+  distance: 76.86km
+  moving_time: 3h55m39s
+  average_speed: 19.6km/h
+  total_elevation_gain: 807m
+  maps:
+  - https://static.komornikimtb.pl/maps/2dfa1dc5e8ec21e5b1c08e309da9c661_600x600.png
+  - https://static.komornikimtb.pl/maps/2dfa1dc5e8ec21e5b1c08e309da9c661_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/5zG3qk4LAqGHdbQHPt28WrzbVk90Wspzp5hNlfKeesw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hoj6R13fgbboj4BZ4fqKcslafZBqvNHPy2m6L9Eioys-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/DQD0dq8UC7lmEs6LLz5_h5nBc74dRK3vCe1hY0NWpsA-1536x2048.jpg
+  - https://d35tn3x5zm6xrc.cloudfront.net/Hba4bJrR6U80HmG8opn7vM00MKDdPDgx8KwSR4c9l28/thumbnails/Hba4bJrR6U80HmG8opn7vM00MKDdPDgx8KwSR4c9l28_888x1526.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uknqosd_A1m-tnHGwnPwOAh36KEtsPGvYZmuZ8EW5Tw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/LmdjRNFGdwwCQvdmnaj5nN_lD0PxP9kIVlosAQw0xnI-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4ichsIvP72OYGvjFzJwmNn9eaKZYmy6zIMJ5MTWCnmw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/lFd2izZIccLFEZjNQPnvxmS_b8Fwl_fku0Fn_cgnm8A-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/jQVKhuZxIXbzzf0myK92HTG_QPOCPx55gth1xEwOBcE-1536x2048.jpg
 - id: 14552631884
   start_date: 2025-05-21 08:30:51.000000000 +02:00
   type: Ride
@@ -27,6 +51,7 @@
   - https://dgtzuqphqg23d.cloudfront.net/9CPcq8GGUUoQAHmjFBREfE1y-W4hDxK2lLEQ80eX3fI-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/TskpPTsnfYRXcfHI6Aa6NEl3uybQ8koTioWmwJx-REw-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/0N7XMBHn2QSRLjZdrbVTxnhBJojzvmPDpVr0rswIOR0-1536x2048.jpg
+  - https://d35tn3x5zm6xrc.cloudfront.net/EPceWMm68woynh6eqEL4_4cmBwy6oDGwrB_SWUiCFCQ/thumbnails/EPceWMm68woynh6eqEL4_4cmBwy6oDGwrB_SWUiCFCQ_720x1280.jpg
 - id: 14540906116
   start_date: 2025-05-20 09:30:57.000000000 +02:00
   type: Ride

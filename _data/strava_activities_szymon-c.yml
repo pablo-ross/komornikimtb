@@ -1,4 +1,19 @@
 ---
+- id: 14561594870
+  start_date: 2025-05-22 15:55:12.000000000 +02:00
+  type: Ride
+  name: Singielki Bike Ride
+  strava_url: https://www.strava.com/activities/14561594870
+  type_emoji: "\U0001F6B4"
+  distance: 33.49km
+  moving_time: 1h37m27s
+  average_speed: 20.6km/h
+  total_elevation_gain: 329m
+  maps:
+  - https://static.komornikimtb.pl/maps/5f829a158490705160a5792dd400672d_600x600.png
+  - https://static.komornikimtb.pl/maps/5f829a158490705160a5792dd400672d_1280x850.png
+  pace: 
+  photos: 
 - id: 14539305325
   start_date: 2025-05-20 13:58:29.000000000 +02:00
   type: Ride
