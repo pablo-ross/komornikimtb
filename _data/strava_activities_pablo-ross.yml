@@ -1,4 +1,34 @@
 ---
+- id: 14571421772
+  start_date: 2025-05-23 09:44:21.000000000 +02:00
+  type: Ride
+  name: Boys Trip s02e07
+  strava_url: https://www.strava.com/activities/14571421772
+  type_emoji: "\U0001F6B4"
+  distance: 78.53km
+  moving_time: 3h54m35s
+  average_speed: 20.1km/h
+  total_elevation_gain: 518m
+  maps:
+  - https://static.komornikimtb.pl/maps/bc005a68aae7afa61853e143a0603647_600x600.png
+  - https://static.komornikimtb.pl/maps/bc005a68aae7afa61853e143a0603647_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/cEKEpEVoGlmcdaiIFBXR8_TP_pO1iHg7G57V8CKwZNM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/OoxdS7jeUSDzsHOIEtzHdCHMegNR74_0ebVujyYMHwg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/VqvbW2HvxU9GoOrNM2uDMh87K5MlINIqMmVX3JR95cc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/O3gaUqKJP2ljcjLz5OOOPK_ox87dLoacFsPuhPySKgM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Gexs21wcdp4hl8sD7L5oC5tlEANlReVP7yRMm9QkOfY-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TRKnSe5iz21YV0qnH1ryCsYjF7XFtIfCObNGiMNrnsM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/htpmLCSVAhebW0nM_gG6EshnYC7LGfyW-w5RiRC9zcE-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Uypkgl8MPET1wRzji03aNHqMl4scxKg6AD7Isnw9p2g-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TY910u5mwtiXWscUyDNVToWoW0fGw4gYpuDvNbY3EKY-1537x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/jLeN4DS8ssLsB6CbGnSgR33MkVfSRHbystNJaNebfEI-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/611N_9Xuuu1DJuZAwTMH754FIxJ35rV5kGzkDGoQPwQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/EHbOO2myWHnTXxk0xDfFM-JtEoPTbz3uRvLgMWbwADA-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dttHM4xjTiqbdEZdt0mF0CsQxSjeqYAV_cFo2JB4g58-1536x2048.jpg
+  - https://d35tn3x5zm6xrc.cloudfront.net/KzsfKCZmYuBjbgwHRvONhhn6uV6xBWjZSR0ppgk1rrY/thumbnails/KzsfKCZmYuBjbgwHRvONhhn6uV6xBWjZSR0ppgk1rrY_1080x1920.jpg
+  - https://d35tn3x5zm6xrc.cloudfront.net/OC0tu_jdlaxecUd1gtFKOnU7-uGqUfKZH851UlYatsY/thumbnails/OC0tu_jdlaxecUd1gtFKOnU7-uGqUfKZH851UlYatsY_1080x1920.jpg
 - id: 14561302422
   start_date: 2025-05-22 09:18:16.000000000 +02:00
   type: Ride

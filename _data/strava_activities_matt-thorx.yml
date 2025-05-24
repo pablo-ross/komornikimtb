@@ -1,8 +1,23 @@
 ---
+- id: 14571052762
+  start_date: 2025-05-23 09:41:41.000000000 +02:00
+  type: Ride
+  name: Alpe Adria dzień 7
+  strava_url: https://www.strava.com/activities/14571052762
+  type_emoji: "\U0001F6B4"
+  distance: 78.86km
+  moving_time: 4h57m47s
+  average_speed: 15.9km/h
+  total_elevation_gain: 469m
+  maps:
+  - https://static.komornikimtb.pl/maps/20fc335f735cc1efff9a7e060fa2c9a1_600x600.png
+  - https://static.komornikimtb.pl/maps/20fc335f735cc1efff9a7e060fa2c9a1_1280x850.png
+  pace: 
+  photos: 
 - id: 14559857155
   start_date: 2025-05-22 09:16:28.000000000 +02:00
   type: Ride
-  name: Alpe Adria dzień 5
+  name: Alpe Adria dzień 6
   strava_url: https://www.strava.com/activities/14559857155
   type_emoji: "\U0001F6B4"
   distance: 38.89km
@@ -14,11 +29,11 @@
   - https://static.komornikimtb.pl/maps/c3ab7598a0e00c6a29d645989641b653_1280x850.png
   pace: 
   photos:
-  - https://dgtzuqphqg23d.cloudfront.net/L4ylwOfzaHQGu8HWOWfrzxTHj0vuHK_HOe1QK12Qkzc-1228x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/avPgsbAFdQISKj9C15GbXPDscahC81GPFy7vdlXCTAs-1153x2048.jpg
 - id: 14552245431
   start_date: 2025-05-21 08:29:53.000000000 +02:00
   type: Ride
-  name: Aple Adria dzień 5 jest kom :)
+  name: Alpe Adria dzień 5 jest kom :)
   strava_url: https://www.strava.com/activities/14552245431
   type_emoji: "\U0001F6B4"
   distance: 72.74km
