@@ -1,4 +1,19 @@
 ---
+- id: 14579004169
+  start_date: 2025-05-24 12:48:40.000000000 +02:00
+  type: Run
+  name: 8. Bieg Poznaniaka dla Przedszkolaka
+  strava_url: https://www.strava.com/activities/14579004169
+  type_emoji: "\U0001F3C3"
+  distance: 10.79km
+  moving_time: 47m54s
+  average_speed: 
+  total_elevation_gain: 48m
+  maps:
+  - https://static.komornikimtb.pl/maps/abe00c198f744a2a49c87e3af437fa49_600x600.png
+  - https://static.komornikimtb.pl/maps/abe00c198f744a2a49c87e3af437fa49_1280x850.png
+  pace: 4m26s/km
+  photos: 
 - id: 14572701343
   start_date: 2025-05-23 20:12:07.000000000 +02:00
   type: Run

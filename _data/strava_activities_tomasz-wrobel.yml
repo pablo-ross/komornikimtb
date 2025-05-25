@@ -1,4 +1,23 @@
 ---
+- id: 14581971955
+  start_date: 2025-05-24 09:16:43.000000000 +02:00
+  type: Ride
+  name: Morning Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/14581971955
+  type_emoji: "\U0001F6B4"
+  distance: 89.11km
+  moving_time: 6h41m46s
+  average_speed: 13.3km/h
+  total_elevation_gain: 1970m
+  maps:
+  - https://static.komornikimtb.pl/maps/8a0b6a76d8fccd7975a842fec7e42d58_600x600.png
+  - https://static.komornikimtb.pl/maps/8a0b6a76d8fccd7975a842fec7e42d58_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/PTYELxBmV-nEQBk-Bi-PpG5oSAyMTPwMgld501_TrC8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/DZ5S7ravv5O0ea0VEtR9czP_nHil0J8IxTIUkkaGlMs-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/l0fzJ04sFLK8AaUjHxAZ_BeX2ilty6y6mBWKqFnn8ls-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/0LK6Ys9PnWT2gftQEbIXkigLXm7sj2qVlzX3wMlM5hM-1536x2048.jpg
 - id: 14427152451
   start_date: 2025-05-09 17:15:02.000000000 +02:00
   type: Run

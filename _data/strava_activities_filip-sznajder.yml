@@ -1,4 +1,21 @@
 ---
+- id: 14582447131
+  start_date: 2025-05-24 18:00:45.000000000 +02:00
+  type: Run
+  name: Pogoń za Lwem
+  strava_url: https://www.strava.com/activities/14582447131
+  type_emoji: "\U0001F3C3"
+  distance: 10.06km
+  moving_time: 50m44s
+  average_speed: 
+  total_elevation_gain: 29.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/5b57792aed18f3c1044c6f175095bbaf_600x600.png
+  - https://static.komornikimtb.pl/maps/5b57792aed18f3c1044c6f175095bbaf_1280x850.png
+  pace: 5m03s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/4Okr4WKCePxjpPLmjfIg9xT6gaI0-0n7m7HG3FSXZIM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/9BLe7h8YD4EkhGkkFEZd575acAfyYlgempMPbD-qiYo-1536x2048.jpg
 - id: 14562879173
   start_date: 2025-05-22 19:28:23.000000000 +02:00
   type: Run
@@ -257,19 +274,3 @@
   - https://static.komornikimtb.pl/maps/b40e2758fddfe5d17e26a1785b84200f_1280x850.png
   pace: 
   photos: 
-- id: 14275078251
-  start_date: 2025-04-24 17:40:27.000000000 +02:00
-  type: Ride
-  name: Afternoon Gravel Ride
-  strava_url: https://www.strava.com/activities/14275078251
-  type_emoji: "\U0001F6B4"
-  distance: 56.22km
-  moving_time: 2h26m2s
-  average_speed: 23.1km/h
-  total_elevation_gain: 295m
-  maps:
-  - https://static.komornikimtb.pl/maps/b88b87645e680e5166fa513ac6e3b02a_600x600.png
-  - https://static.komornikimtb.pl/maps/b88b87645e680e5166fa513ac6e3b02a_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/6pzJNDR6K7CODKvMNZcyhHRm4ZPC5DCswvVQb-v92xA-1536x2048.jpg
