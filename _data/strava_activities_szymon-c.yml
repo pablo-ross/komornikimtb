@@ -1,4 +1,20 @@
 ---
+- id: 14590616944
+  start_date: 2025-05-25 13:34:57.000000000 +02:00
+  type: Ride
+  name: Family Bike Ride
+  strava_url: https://www.strava.com/activities/14590616944
+  type_emoji: "\U0001F6B4"
+  distance: 25.66km
+  moving_time: 1h24m20s
+  average_speed: 18.3km/h
+  total_elevation_gain: 96m
+  maps:
+  - https://static.komornikimtb.pl/maps/38af5ecf29f31d557eca836b708c95f2_600x600.png
+  - https://static.komornikimtb.pl/maps/38af5ecf29f31d557eca836b708c95f2_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/UbWFv5Sk5PuYpB1MFlnPUbxPncirhb_jJkoQVRJ518w-2048x682.jpg
 - id: 14570838465
   start_date: 2025-05-23 14:48:23.000000000 +02:00
   type: Ride
@@ -168,24 +184,3 @@
   - https://static.komornikimtb.pl/maps/be52e15fa61f62a0ae0639491bb68056_1280x850.png
   pace: 
   photos: 
-- id: 14282575401
-  start_date: 2025-04-25 15:19:49.000000000 +02:00
-  type: Ride
-  name: Singletrack Konin Bike Ride
-  strava_url: https://www.strava.com/activities/14282575401
-  type_emoji: "\U0001F6B4"
-  distance: 30.11km
-  moving_time: 1h29m49s
-  average_speed: 20.1km/h
-  total_elevation_gain: 289m
-  maps:
-  - https://static.komornikimtb.pl/maps/8bb7f22f89dbdb37fd874fbff807d728_600x600.png
-  - https://static.komornikimtb.pl/maps/8bb7f22f89dbdb37fd874fbff807d728_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/UfFP6154uiLu5mF7j2Pbbs_2gCtfmcFqwjQ3uTBNnAg-2048x945.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/unYXHT4QHsggJk-VxIuVQqBdLH4RgOidThBU7yuH1m4-2048x945.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/u3O75xfQXwoPCKtikiUWv_bWXpf9AMGIyD1l_Ex-9Nk-945x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/VDqa7n2WyQrjgyySAt0Cu8E1HfLG-JThE21zN1045eA-945x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/OdHoBoA8bxIX0T5g_ok5v0G11A_B7vulfc0OWtXtHNM-945x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/LcphWOOcgh_lXQHFoSvhJidlLptPZ5sFOH7SfIeBg44-945x2048.jpg
