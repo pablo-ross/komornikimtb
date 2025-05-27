@@ -1,8 +1,23 @@
 ---
+- id: 14603376566
+  start_date: 2025-05-26 20:10:09.000000000 +02:00
+  type: Run
+  name: Evening Trail Run Single Track Komorniki
+  strava_url: https://www.strava.com/activities/14603376566
+  type_emoji: "\U0001F3C3"
+  distance: 7.03km
+  moving_time: 37m20s
+  average_speed: 
+  total_elevation_gain: 93m
+  maps:
+  - https://static.komornikimtb.pl/maps/b2ce70a5872632c5a3c7a025bf59610a_600x600.png
+  - https://static.komornikimtb.pl/maps/b2ce70a5872632c5a3c7a025bf59610a_1280x850.png
+  pace: 5m19s/km
+  photos: 
 - id: 14578963843
   start_date: 2025-05-24 12:48:35.000000000 +02:00
   type: Run
-  name: Bieg Poznaniaka dla Przedszkola
+  name: Bieg Poznaniaka dla Przedszkolaka
   strava_url: https://www.strava.com/activities/14578963843
   type_emoji: "\U0001F3C3"
   distance: 10.79km
