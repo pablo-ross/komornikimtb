@@ -1,4 +1,20 @@
 ---
+- id: 14612059700
+  start_date: 2025-05-27 14:35:35.000000000 +02:00
+  type: Ride
+  name: Poznań to Konin
+  strava_url: https://www.strava.com/activities/14612059700
+  type_emoji: "\U0001F6B4"
+  distance: 121.18km
+  moving_time: 3h48m26s
+  average_speed: 31.8km/h
+  total_elevation_gain: 327m
+  maps:
+  - https://static.komornikimtb.pl/maps/a761d56c15c3fbae12f1323c523b661e_600x600.png
+  - https://static.komornikimtb.pl/maps/a761d56c15c3fbae12f1323c523b661e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/i55VrFbbyZifJ0ZIlBS30uQg9_DjIvDBi-naHv9whbE-945x2048.jpg
 - id: 14590616944
   start_date: 2025-05-25 13:34:57.000000000 +02:00
   type: Ride
