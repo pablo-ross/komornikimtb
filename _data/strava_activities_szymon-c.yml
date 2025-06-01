@@ -1,4 +1,19 @@
 ---
+- id: 14654341578
+  start_date: 2025-05-31 18:09:44.000000000 +02:00
+  type: Ride
+  name: 4x 1min 120-130%+4min 105%-110%
+  strava_url: https://www.strava.com/activities/14654341578
+  type_emoji: "\U0001F6B4"
+  distance: 35.18km
+  moving_time: 1h9m43s
+  average_speed: 30.3km/h
+  total_elevation_gain: 104m
+  maps:
+  - https://static.komornikimtb.pl/maps/11ea84d25add3a57e07a07aaa25b1ec1_600x600.png
+  - https://static.komornikimtb.pl/maps/11ea84d25add3a57e07a07aaa25b1ec1_1280x850.png
+  pace: 
+  photos: 
 - id: 14633760703
   start_date: 2025-05-29 18:47:21.000000000 +02:00
   type: Ride
@@ -17,7 +32,7 @@
 - id: 14612059700
   start_date: 2025-05-27 14:35:35.000000000 +02:00
   type: Ride
-  name: Poznań to Konin
+  name: "Poznań to Konin czyli \U0001F4AFno2/2025"
   strava_url: https://www.strava.com/activities/14612059700
   type_emoji: "\U0001F6B4"
   distance: 121.18km
@@ -167,21 +182,3 @@
   - https://static.komornikimtb.pl/maps/6e9fff97440c3d7820a3464f11df44c5_1280x850.png
   pace: 
   photos: 
-- id: 14345316667
-  start_date: 2025-05-01 09:51:30.000000000 +02:00
-  type: Ride
-  name: "Szosa w górach KMTB czyli \U0001F4AFno 1/2025"
-  strava_url: https://www.strava.com/activities/14345316667
-  type_emoji: "\U0001F6B4"
-  distance: 118.49km
-  moving_time: 4h41m38s
-  average_speed: 25.2km/h
-  total_elevation_gain: 1940m
-  maps:
-  - https://static.komornikimtb.pl/maps/c52a82d795eff2510de0d6ff7a3f4a65_600x600.png
-  - https://static.komornikimtb.pl/maps/c52a82d795eff2510de0d6ff7a3f4a65_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/WgoTf80QyyxdJrldOxUdIPo7T-GYGhOSb96e0C3lpRE-945x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/tEuHiVlwQGr9BmFnB64hPvu3xoCqTBk52eYTppOZ9P0-2048x945.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/KNpqadoOWLeTBunv7vxP6ANcIxVkUUdp6DzuWfazu8c-946x2048.jpg
