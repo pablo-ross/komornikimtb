@@ -1,4 +1,20 @@
 ---
+- id: 14661160151
+  start_date: 2025-06-01 09:10:51.000000000 +02:00
+  type: Ride
+  name: "The President Ride \U0001F1F5\U0001F1F1"
+  strava_url: https://www.strava.com/activities/14661160151
+  type_emoji: "\U0001F6B4"
+  distance: 114.42km
+  moving_time: 3h34m9s
+  average_speed: 32.1km/h
+  total_elevation_gain: 437m
+  maps:
+  - https://static.komornikimtb.pl/maps/cf51644c63b2975bbeb7a0830f5ad07a_600x600.png
+  - https://static.komornikimtb.pl/maps/cf51644c63b2975bbeb7a0830f5ad07a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/OmMB2COnKD4a3R_syHvmFedtcfL9880RbESjwur_T6g-1657x2048.jpg
 - id: 14622826537
   start_date: 2025-05-28 18:02:14.000000000 +02:00
   type: Ride

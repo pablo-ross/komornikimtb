@@ -1,4 +1,19 @@
 ---
+- id: 14662470337
+  start_date: 2025-06-01 14:20:51.000000000 +02:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/14662470337
+  type_emoji: "\U0001F3C3"
+  distance: 9.61km
+  moving_time: 46m49s
+  average_speed: 
+  total_elevation_gain: 41m
+  maps:
+  - https://static.komornikimtb.pl/maps/3b6de288ff02e48cbc175f95e124bf99_600x600.png
+  - https://static.komornikimtb.pl/maps/3b6de288ff02e48cbc175f95e124bf99_1280x850.png
+  pace: 4m52s/km
+  photos: 
 - id: 14643934356
   start_date: 2025-05-30 19:29:06.000000000 +02:00
   type: Run
