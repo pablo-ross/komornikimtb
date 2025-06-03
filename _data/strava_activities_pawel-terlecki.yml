@@ -1,1 +1,19 @@
---- []
+---
+- id: 14674946069
+  start_date: 2025-06-02 15:10:46.000000000 +02:00
+  type: Ride
+  name: Komornicka100
+  strava_url: https://www.strava.com/activities/14674946069
+  type_emoji: "\U0001F6B4"
+  distance: 118.52km
+  moving_time: 4h41m54s
+  average_speed: 25.2km/h
+  total_elevation_gain: 479m
+  maps:
+  - https://static.komornikimtb.pl/maps/b50077aed3fca4ba517ca42ef71bb591_600x600.png
+  - https://static.komornikimtb.pl/maps/b50077aed3fca4ba517ca42ef71bb591_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/qEBG6Q_98sci9aC_5ga4PQWaZl4jbOXxvDGrRMnUTQw-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Z3ZBN0fj_3g_M0UPl1EnFedUw3tfZxw7KTG7rnJ0GME-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4Tj-LEak6f8EFygotuMreiKWd8OyM5-aZZKkZ2TdY5c-1536x2048.jpg
