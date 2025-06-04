@@ -292,18 +292,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/FabXJ8WSsB3E7cmE_ZbTQYPHz8O4O_M4HqEX_AYkfxE-2048x946.jpg
   - https://dgtzuqphqg23d.cloudfront.net/5vfWJN11VuU7rRvEWb_H11LMo4aJZYkrCq4xfArq2Yc-2048x946.jpg
-- id: 14373798315
-  start_date: 2025-05-04 11:01:55.000000000 +02:00
-  type: Ride
-  name: Solid MTB Wągrowiec 2025
-  strava_url: https://www.strava.com/activities/14373798315
-  type_emoji: "\U0001F6B4"
-  distance: 43.39km
-  moving_time: 2h43s
-  average_speed: 21.6km/h
-  total_elevation_gain: 433m
-  maps:
-  - https://static.komornikimtb.pl/maps/ab01c7168e7f7ac836db46f6adf5cdaf_600x600.png
-  - https://static.komornikimtb.pl/maps/ab01c7168e7f7ac836db46f6adf5cdaf_1280x850.png
-  pace: 
-  photos: 

@@ -1,4 +1,19 @@
 ---
+- id: 14682870743
+  start_date: 2025-06-03 14:18:36.000000000 +02:00
+  type: Ride
+  name: 30sek 120-130% +3min 105-110%
+  strava_url: https://www.strava.com/activities/14682870743
+  type_emoji: "\U0001F6B4"
+  distance: 33.8km
+  moving_time: 1h4m55s
+  average_speed: 31.2km/h
+  total_elevation_gain: 94m
+  maps:
+  - https://static.komornikimtb.pl/maps/35a252ec44eb09ef6f5a81fae111ec1d_600x600.png
+  - https://static.komornikimtb.pl/maps/35a252ec44eb09ef6f5a81fae111ec1d_1280x850.png
+  pace: 
+  photos: 
 - id: 14654341578
   start_date: 2025-05-31 18:09:44.000000000 +02:00
   type: Ride
