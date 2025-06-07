@@ -1,4 +1,19 @@
 ---
+- id: 14714366585
+  start_date: 2025-06-06 14:58:53.000000000 +02:00
+  type: Ride
+  name: Trening anaerobowy
+  strava_url: https://www.strava.com/activities/14714366585
+  type_emoji: "\U0001F6B4"
+  distance: 36.28km
+  moving_time: 1h11m44s
+  average_speed: 30.3km/h
+  total_elevation_gain: 118m
+  maps:
+  - https://static.komornikimtb.pl/maps/9fd84dfa506d663f1fa12f6b361f3166_600x600.png
+  - https://static.komornikimtb.pl/maps/9fd84dfa506d663f1fa12f6b361f3166_1280x850.png
+  pace: 
+  photos: 
 - id: 14682870743
   start_date: 2025-06-03 14:18:36.000000000 +02:00
   type: Ride
