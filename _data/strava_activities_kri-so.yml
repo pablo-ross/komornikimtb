@@ -1,4 +1,20 @@
 ---
+- id: 14722980884
+  start_date: 2025-06-07 09:16:53.000000000 +02:00
+  type: Ride
+  name: 'K100 Gravel Ride #1'
+  strava_url: https://www.strava.com/activities/14722980884
+  type_emoji: "\U0001F6B4"
+  distance: 102.79km
+  moving_time: 4h14m19s
+  average_speed: 24.2km/h
+  total_elevation_gain: 523m
+  maps:
+  - https://static.komornikimtb.pl/maps/8d33578fe37773f0202808759855d05b_600x600.png
+  - https://static.komornikimtb.pl/maps/8d33578fe37773f0202808759855d05b_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/kuNzR0ygvAOwLCMuJX2vlwN4wmbqiHiLq6vyq_wdAu4-1536x2048.jpg
 - id: 14468305377
   start_date: 2025-05-13 16:21:43.000000000 +02:00
   type: Ride

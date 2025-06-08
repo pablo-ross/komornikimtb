@@ -1,4 +1,19 @@
 ---
+- id: 14722302966
+  start_date: 2025-06-07 11:10:30.000000000 +02:00
+  type: Ride
+  name: Lunch Ride
+  strava_url: https://www.strava.com/activities/14722302966
+  type_emoji: "\U0001F6B4"
+  distance: 28.81km
+  moving_time: 1h43m51s
+  average_speed: 16.6km/h
+  total_elevation_gain: 217m
+  maps:
+  - https://static.komornikimtb.pl/maps/62fd9361ec9829c4b189a76ad064f9c3_600x600.png
+  - https://static.komornikimtb.pl/maps/62fd9361ec9829c4b189a76ad064f9c3_1280x850.png
+  pace: 
+  photos: 
 - id: 14685828587
   start_date: 2025-06-03 18:14:43.000000000 +02:00
   type: Ride
@@ -74,19 +89,3 @@
   - https://static.komornikimtb.pl/maps/24b87f9bc182f80b6461fab4b378772d_1280x850.png
   pace: 
   photos: 
-- id: 14419439952
-  start_date: 2025-05-08 17:57:25.000000000 +02:00
-  type: Ride
-  name: Habemus Papam
-  strava_url: https://www.strava.com/activities/14419439952
-  type_emoji: "\U0001F6B4"
-  distance: 53.69km
-  moving_time: 2h45m3s
-  average_speed: 19.5km/h
-  total_elevation_gain: 379m
-  maps:
-  - https://static.komornikimtb.pl/maps/c3560e86ab6bd848ca0304cd3508f005_600x600.png
-  - https://static.komornikimtb.pl/maps/c3560e86ab6bd848ca0304cd3508f005_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/sXQwgnC0nuD1lLSrB7BCK7LXcSQNAg0-VGS3XhLUtCo-1536x2048.jpg
