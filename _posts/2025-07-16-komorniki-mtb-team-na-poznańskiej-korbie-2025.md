@@ -24,12 +24,12 @@ Widać było na trasie jak różne są zamiary kolarzy: część jechała zdecyd
 Na mecie czekał piękny, dopracowany medal, głośna muzyka i kolejna porcja pyszności. Zadowolenie wśród finiszerów było wszechobecne, co po ukończeniu tak wyczerpującego wyścigu wcale nie powinno dziwić.
 
 **Komorniki MTB Team reprezentowali:**
-- # 24 Katarzyna Krzycka
-- # 110 Adrian Mojzykiewicz
-- # 39 Krystian Matuszyński
-- # 41 Mariusz Bocian
-- # 40 Zbigniew Bocian
-- # 46 Bartosz Bursa
+- 24 Katarzyna Krzycka
+- 110 Adrian Mojzykiewicz
+- 39 Krystian Matuszyński
+- 41 Mariusz Bocian
+- 40 Zbigniew Bocian
+- 46 Bartosz Bursa
 
 **Wyniki:** <https://results.sledzgps.pl/957>
 
