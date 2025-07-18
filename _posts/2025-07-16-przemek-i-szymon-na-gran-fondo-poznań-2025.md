@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Przemek i Szymon na Gran Fondo Poznań 2025
+title: Komorniki MTB Team na Gran Fondo Poznań 2025
 date: 2025-07-10
 image: assets/uploads/kmtb-granfondo-poznan-2025.jpg
 categories:
@@ -44,6 +44,6 @@ A dzień wcześniej – dzieciaki! W wyścigu na dystansie 3,2 km świetnie spis
 
 Gratulacje dla całej drużyny – i tej dużej, i tej najmłodszej. Takie starty pokazują, że w każdym wieku można gonić marzenia... z prędkością ponad 40 km/h!
 
-**Wyniki:** <https://wyniki.b4sport.pl/pzu-gran-fondo/m1290.html>
+Wyniki: <https://wyniki.b4sport.pl/pzu-gran-fondo/m1290.html>
 
 Komorniki MTB Team - zawsze w dobrym kierunku 🙂
