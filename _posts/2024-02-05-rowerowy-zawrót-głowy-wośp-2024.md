@@ -8,7 +8,6 @@ categories:
   - Treningi
   - Wydarzenia
 tags:
-  - Wielka Orkiestra Świątecznej Pomocy
   - WOŚP
 author: ola
 ---

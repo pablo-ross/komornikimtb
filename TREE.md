@@ -1,5 +1,5 @@
 # Project Tree
-Generated on: 2025-06-08, 14:50:32 CEST
+Generated on: 2025-08-13, 16:48:25 CEST
 
 This tree only includes files tracked by git (respects .gitignore)
 
@@ -99,6 +99,7 @@ This tree only includes files tracked by git (respects .gitignore)
 │       ├── kmtb-100-jezior-gravel-2022.jpg
 │       ├── kmtb-11listopada-2023.jpg
 │       ├── kmtb-22-poznan-maraton-2023.jpg
+│       ├── kmtb-3xsniezka-2025.jpg
 │       ├── kmtb-akademickie-mistrzostwa-2022.jpg
 │       ├── kmtb-akwen-czerwonak-2023.jpg
 │       ├── kmtb-amp-2023.jpg
@@ -120,6 +121,7 @@ This tree only includes files tracked by git (respects .gitignore)
 │       ├── kmtb-bieg-tropem-wilczym-2022.jpg
 │       ├── kmtb-biegwdbrkier-2024.jpg
 │       ├── kmtb-bieg-w-dobrym-kierunku-2023.jpg
+│       ├── kmtb-biegwdobrymkierunku-2025.jpg
 │       ├── kmtb-bieg-wiosenny-2024.jpg
 │       ├── kmtb-bieg-wosp-2024.jpg
 │       ├── kmtb-bielawa-2024.jpg
@@ -154,6 +156,7 @@ This tree only includes files tracked by git (respects .gitignore)
 │       ├── kmtb-championman-2025.jpg
 │       ├── kmtb-championman-duathlon-czempin-2022.jpg
 │       ├── kmtb-chodziez-2024.jpg
+│       ├── kmtb-chodziezmtb-2025.jpg
 │       ├── kmtb-chybaxc-2024.jpg
 │       ├── kmtb-citytrail-poznan-2022.jpg
 │       ├── kmtb-como-2023-spinoff.jpg
@@ -179,9 +182,11 @@ This tree only includes files tracked by git (respects .gitignore)
 │       ├── kmtb-gp-baryczy-2024.jpg
 │       ├── kmtb-gran-fondo-2022.jpg
 │       ├── kmtb-gran-fondo-poznan-2022.jpg
+│       ├── kmtb-granfondo-poznan-2025.jpg
 │       ├── kmtb-gryfus-rajd-2022.jpg
 │       ├── kmtb-hunters-2023.jpg
 │       ├── kmtb-icemat-2025.jpg
+│       ├── kmtb-jblsierakow-2025.jpg
 │       ├── kmtb-jeseniky-2024.jpg
 │       ├── kmtb-jesienny-2024.jpg
 │       ├── kmtb-jura-mtb-race-2022.jpg
@@ -201,6 +206,7 @@ This tree only includes files tracked by git (respects .gitignore)
 │       ├── kmtb-komornicka100-start.jpg
 │       ├── kmtb-korba-2023.jpg
 │       ├── kmtb-korba-2024.jpg
+│       ├── kmtb-korba-2025.jpg
 │       ├── kmtb-kornicki-2024.jpg
 │       ├── kmtb-koronowo-2023.jpg
 │       ├── kmtb-lago-di-garda-2022.jpg
@@ -241,6 +247,7 @@ This tree only includes files tracked by git (respects .gitignore)
 │       ├── kmtb-polmaraton-poznan-2022.jpg
 │       ├── kmtb-polmaraton-slowaka-2022.jpg
 │       ├── kmtb-polmaraton-slowaka-2024.jpg
+│       ├── kmtb-polmaratonslowaka-2025.jpg
 │       ├── kmtb-poszukaj-wiosny-2022.jpg
 │       ├── kmtb-poznan-maraton-2024.jpg
 │       ├── kmtb-poznan-polmaraton-2021.jpg
@@ -258,6 +265,7 @@ This tree only includes files tracked by git (respects .gitignore)
 │       ├── kmtb-recordowa-2025.jpg
 │       ├── kmtb-recordowa-dziesiatka-2024.jpg
 │       ├── kmtb-rekordowa-dziesiatka-2023.jpg
+│       ├── kmtb-rowerem-szrenica-2025.jpg
 │       ├── kmtb-rowerowe-sowie-2024.jpg
 │       ├── kmtb-rowerowe-sowie-2025.jpg
 │       ├── kmtb-rowerowy-bieg-piastow-2022.jpg
@@ -285,11 +293,15 @@ This tree only includes files tracked by git (respects .gitignore)
 │       ├── kmtb-solid-kornik-2022.jpg
 │       ├── kmtb-solid-kornik-2025.jpg
 │       ├── kmtb-solid-krzywin-2022.jpg
+│       ├── kmtb-solid-krzywin-2025.jpg
 │       ├── kmtb-solid-leszno-2022.jpg
 │       ├── kmtb-solid-mtb-dolsk-2023.jpg
+│       ├── kmtb-solidmtb-gorzno-2025.jpg
 │       ├── kmtb-solid-mtb-grodzisk-2023.jpg
+│       ├── kmtb-solid-mtb-grodzisk-2025.jpg
 │       ├── kmtb-solid-mtb-kamionki-2023.jpg
 │       ├── kmtb-solid-mtb-krzywin-2023.jpg
+│       ├── kmtb-solidmtb-lgin-2025.jpg
 │       ├── kmtb-solid-mtb-owinska-2023.jpg
 │       ├── kmtb-solid-mtb-przylek-2023.jpg
 │       ├── kmtb-solid-mtb-slawa-2023.jpg
@@ -316,9 +328,11 @@ This tree only includes files tracked by git (respects .gitignore)
 │       ├── kmtb-spinning-2024.jpg
 │       ├── kmtb-sto-procent-pasji-2023.jpg
 │       ├── kmtb-strefa-mtb-trophy-2023.jpg
+│       ├── kmtb-stronie-2025.jpg
 │       ├── kmtb-swisstour-2024.jpg
 │       ├── kmtb-szamocinski-maraton-mtb-2023.jpg
 │       ├── kmtb-szamocinski-maraton-mtb-2024.jpg
+│       ├── kmtb-szczecinek-2025.jpg
 │       ├── kmtb-szlak-orlich-gniazd-2023.jpg
 │       ├── kmtb-szlak-wokol-tatr-2023.jpg
 │       ├── kmtb-szosa-miekinia-2025.jpg
@@ -335,6 +349,7 @@ This tree only includes files tracked by git (respects .gitignore)
 │       ├── kmtb-triathlon-czerwonak-2022.jpg
 │       ├── kmtb-triathlon-sierakow-2022.jpg
 │       ├── kmtb-trzemeszno-2025.jpg
+│       ├── kmtb-ultradzik-2025.jpg
 │       ├── kmtb-ultra-dziki-zachod-2024.jpg
 │       ├── kmtb-umbrailpass-2024.jpg
 │       ├── kmtb-uphill-race-sniezka-2023.jpg
@@ -373,6 +388,9 @@ This tree only includes files tracked by git (respects .gitignore)
 │       ├── solid-wilkowice-2021.jpg
 │       ├── transalp-como-route-max-2021.jpg
 │       └── ultra-bm-szklarska-2021.jpg
+├── .claude
+│   └── settings.local.json
+├── CLAUDE.md
 ├── _config_prod.yml
 ├── _config.yml
 ├── _data
@@ -399,6 +417,9 @@ This tree only includes files tracked by git (respects .gitignore)
 │   ├── strava_activities_zibi-67.yml
 │   └── strava_members.yml
 ├── docker-compose.yml
+├── docker-dev.md
+├── Dockerfile
+├── .env.example
 ├── favicon.ico
 ├── feed.xml
 ├── Gemfile
@@ -421,6 +442,7 @@ This tree only includes files tracked by git (respects .gitignore)
 │   ├── timeline.html
 │   └── toc.html
 ├── index.html
+├── .jekyll-metadata
 ├── _layouts
 │   ├── archive.html
 │   ├── author.html
@@ -437,6 +459,7 @@ This tree only includes files tracked by git (respects .gitignore)
 │   └── strava.rb
 ├── LICENSE.txt
 ├── netlify.toml
+├── nginx.dev.conf
 ├── _pages
 │   ├── authors.html
 │   ├── categories.md
@@ -635,7 +658,19 @@ This tree only includes files tracked by git (respects .gitignore)
 │   ├── 2025-06-05-przemek-na-championman-duathlon-czempi\305\204-2025.md"
 │   ├── 2025-06-05-tomek-na-bike-maraton-wa\305\202brzych-2025.md"
 │   ├── 2025-06-05-uci-mountain-bike-world-series-nov\303\251-m\304\233sto-na-morav\304\233-2025.md"
-│   └── 2025-06-05-wystartowa\305\202a-nowa-inicjatywa-rowerowa-komornicka-100.md"
+│   ├── 2025-06-05-wystartowa\305\202a-nowa-inicjatywa-rowerowa-komornicka-100.md"
+│   ├── 2025-06-18-adrian-na-2-edycji-ultra-dziki-zach\303\263d-2025.md"
+│   ├── 2025-06-18-andrzej-na-jbl-triathlon-sierak\303\263w-2025.md"
+│   ├── 2025-06-18-kasia-i-marcin-na-xvii-hunters-grodziski-p\303\263\305\202maraton-s\305\202owaka-2025.md"
+│   ├── 2025-07-16-bartosz-i-ariel-na-solid-mtb-lgi\305\204-2025.md"
+│   ├── 2025-07-16-komorniki-mtb-team-na-chodzie\305\274-mtb-maraton-2025.md"
+│   ├── 2025-07-16-komorniki-mtb-team-na-pozna\305\204skiej-korbie-2025.md"
+│   ├── 2025-07-16-komorniki-mtb-team-na-solid-mtb-g\303\263rzno-2025.md"
+│   ├── 2025-07-16-komorniki-mtb-team-w-stroniu-\305\233l\304\205skim-2025.md"
+│   ├── 2025-07-16-przemek-i-szymon-na-gran-fondo-pozna\305\204-2025.md"
+│   ├── 2025-07-30-komorniki-mtb-team-na-7-edycji-rowerem-na-szrenic\304\231-2025.md"
+│   ├── 2025-07-30-komorniki-mtb-team-na-solid-mtb-krzywi\305\204-2025.md"
+│   └── 2025-07-30-maciej-na-3x-\305\233nie\305\274ka-1x-mont-blanc-2025.md"
 ├── _posts
 │   ├── 2021-07-07-ultra-mb-szklarska-poreba-2021.md
 │   ├── 2021-07-11-solid-mtb-gostyn-2021.md
@@ -743,7 +778,10 @@ This tree only includes files tracked by git (respects .gitignore)
 │   ├── 2025-05-26-komorniki-mtb-team-na-2-etapie-duo-cykl-wielkopolska-2025.md
 │   ├── 2025-05-26-komorniki-mtb-team-na-zachodnia-liga-mtb-2025.md
 │   ├── 2025-06-05-grzegorz-na-gravelowej-szutrozie-w-bydgoszczy-2025.md
-│   └── 2025-06-05-komorniki-mtb-team-na-rowerowe-sowie-2025.md
+│   ├── 2025-06-05-komorniki-mtb-team-na-rowerowe-sowie-2025.md
+│   ├── 2025-06-18-komorniki-mtb-team-na-solid-mtb-grodzisk-2025.md
+│   ├── 2025-07-16-komorniki-mtb-team-na-biegu-w-dobrym-kierunku-2025.md
+│   └── 2025-07-16-maciej-na-1-8-ironman-triathlon-w-szczecinku-2025.md
 ├── Rakefile
 ├── README.md
 ├── robots.txt
@@ -870,5 +908,5 @@ This tree only includes files tracked by git (respects .gitignore)
 │   └── zibi-67.md
 └── TREE.md
 
-24 directories, 840 files
+25 directories, 877 files
 ```

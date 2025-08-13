@@ -7,7 +7,7 @@ categories:
   - Aktualności
   - Treningi
 tags:
-  - Wielka Orkiestra Świątecznej Pomocy
+  - WOŚP
   - Rowerowy Zawrót Głowy
 author: ola
 ---

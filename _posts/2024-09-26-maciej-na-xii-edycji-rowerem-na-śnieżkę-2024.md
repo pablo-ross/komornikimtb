@@ -7,7 +7,7 @@ categories:
   - Aktualności
   - Zawody
 tags:
-  - Rowerem Na Śnieżkę
+  - Rowerem na Śnieżkę
 author: ola
 ---
 Komorniki MTB Team zagościły na kolejnej, XII edycji "Rowerem Na Śnieżkę". Impreza organizowana jest przez Rotary Club Karpacz-Karkonosze i ma charakter charytatywny. Tym razem KMTB Team reprezentował Maciej Marczak, numer startowy 4.

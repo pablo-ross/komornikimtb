@@ -8,7 +8,6 @@ categories:
   - Wydarzenia
 tags:
   - WOŚP
-  - Wielka Orkiestra Świątecznej Pomocy
 author: ola
 ---
 Co roku pod koniec stycznia gra Największa Orkiestra Świata ❤❤❤ a my razem z nią. 30. Finał WOŚP w Poznaniu - w tym roku wspierając działalność charytatywną WOŚP pod hasłem „ Przejrzyj na oczy” - wsparcie okulistyki dziecięcej, miał też oczywiście sportowe wydarzenia, w których udział wzięli zawodnicy Komorniki MTB Team 💚🖤

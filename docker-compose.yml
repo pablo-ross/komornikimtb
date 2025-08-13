@@ -1,7 +1,68 @@
-jekyll:
-    image: jekyll/jekyll:latest
-    command: jekyll serve --force_polling
+services:
+  jekyll:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: komornikimtb-jekyll-dev
     ports:
-        - 4000:4000
+      - "4000:4000"
+      - "35729:35729" # LiveReload port
     volumes:
-        - .:/srv/jekyll
+      - .:/srv/jekyll:cached
+      - jekyll_cache:/srv/jekyll/.sass-cache
+      - bundle_cache:/usr/local/bundle
+    environment:
+      # Strava API environment variables (set these in .env file)
+      - STRAVA_CLIENT_ID=${STRAVA_CLIENT_ID:-}
+      - STRAVA_CLIENT_SECRET=${STRAVA_CLIENT_SECRET:-}
+      - STRAVA_API_REFRESH_TOKEN=${STRAVA_API_REFRESH_TOKEN:-}
+      - STRAVA_API_CLUB_ID=${STRAVA_API_CLUB_ID:-}
+    networks:
+      - jekyll-network
+    restart: unless-stopped
+
+  # Optional: Nginx reverse proxy for production-like testing
+  nginx:
+    image: nginx:alpine
+    container_name: komornikimtb-nginx-dev
+    ports:
+      - "8080:80"
+    volumes:
+      - ./nginx.dev.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./_site:/usr/share/nginx/html:ro
+    depends_on:
+      - jekyll
+    networks:
+      - jekyll-network
+    profiles:
+      - nginx
+    restart: unless-stopped
+
+  # Development tools container for running tasks
+  tools:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: komornikimtb-tools-dev
+    volumes:
+      - .:/srv/jekyll:cached
+      - bundle_cache:/usr/local/bundle
+    environment:
+      - STRAVA_CLIENT_ID=${STRAVA_CLIENT_ID:-}
+      - STRAVA_CLIENT_SECRET=${STRAVA_CLIENT_SECRET:-}
+      - STRAVA_API_REFRESH_TOKEN=${STRAVA_API_REFRESH_TOKEN:-}
+      - STRAVA_API_CLUB_ID=${STRAVA_API_CLUB_ID:-}
+    command: tail -f /dev/null
+    networks:
+      - jekyll-network
+    profiles:
+      - tools
+    restart: unless-stopped
+
+volumes:
+  jekyll_cache:
+  bundle_cache:
+
+networks:
+  jekyll-network:
+    driver: bridge

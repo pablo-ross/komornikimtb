@@ -9,7 +9,7 @@ categories:
 tags:
   - Szosowy Klasyk
   - Miękinia
-  - VeloBank Via Dolny Śląsk
+  - VeloBank VIA Dolny Śląsk
 author: ola
 ---
 27 kwietnia odbył się drugi wyścig z cyklu VeloBank Via Dolny Śląsk. Tomasz Jabłoński reprezentujący Komorniki MTB Team zajął 3 miejsce w kategorii M50 podczas płaskiej trasy Szosowego Klasyku w Miękini.

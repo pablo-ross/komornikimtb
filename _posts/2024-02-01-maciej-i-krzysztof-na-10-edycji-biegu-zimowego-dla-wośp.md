@@ -8,7 +8,6 @@ categories:
   - Zawody
 tags:
   - WOŚP
-  - Wielka Orkiestra Świątecznej Pomocy
   - Bieg Zimowy
   - Krajkowo
 author: ola
