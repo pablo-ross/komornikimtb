@@ -1,5 +1,5 @@
 # Project Tree
-Generated on: 2025-08-13, 16:48:25 CEST
+Generated on: 2025-08-13, 16:50:03 CEST
 
 This tree only includes files tracked by git (respects .gitignore)
 
@@ -442,7 +442,6 @@ This tree only includes files tracked by git (respects .gitignore)
 │   ├── timeline.html
 │   └── toc.html
 ├── index.html
-├── .jekyll-metadata
 ├── _layouts
 │   ├── archive.html
 │   ├── author.html
@@ -908,5 +907,5 @@ This tree only includes files tracked by git (respects .gitignore)
 │   └── zibi-67.md
 └── TREE.md
 
-25 directories, 877 files
+25 directories, 876 files
 ```
